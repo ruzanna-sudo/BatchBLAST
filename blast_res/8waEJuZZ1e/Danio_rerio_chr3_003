@@ -1,0 +1,469 @@
+query_id,query_title,subject_id,subject_accession,subject_title,taxid,sci_name,identity_pct,bit_score,evalue
+Query_6303621,Danio_rerio_chr3_003,gi|45826183|gb|AY574046.1|,AY574046,"Sus scrofa breed Hampshire mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|2727910422|gb|PP763921.1|,PP763921,"Sus scrofa isolate AgondaGoan4 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|209166198|gb|FJ236998.1|,FJ236998,"Sus scrofa breed European wild boar haplotype WB1 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|209166142|gb|FJ236994.1|,FJ236994,"Sus scrofa breed Iberian haplotype H5 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|84181679|gb|AY334492.2|,AY334492,"Sus scrofa isolate JNP-9 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|209166170|gb|FJ236996.1|,FJ236996,"Sus scrofa breed Duroc haplotype D1 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|347448611|gb|JN601066.1|,JN601066,"Sus scrofa isolate Mangalitsa Blonde breed 43-5 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|33320725|gb|AF486858.1|,AF486858,"Sus scrofa breed Duroc mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|157056425|gb|EU117375.1|,EU117375,"Sus scrofa breed Iberian mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|115546398|dbj|AK230917.1|,AK230917,"Sus scrofa mRNA, clone:AMP010064B01, expressed in alveolar macrophage",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|209166128|gb|FJ236993.1|,FJ236993,"Sus scrofa breed Iberian haplotype H4 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|209166184|gb|FJ236997.1|,FJ236997,"Sus scrofa breed Duroc haplotype D2 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|459353574|gb|KC469587.1|,KC469587,"Sus scrofa domesticus breed pietrain mitochondrion, complete genome",9825,Sus scrofa domesticus,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|209166268|gb|FJ237003.1|,FJ237003,"Sus scrofa breed European wild boar haplotype WB6 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|209166100|gb|FJ236991.1|,FJ236991,"Sus scrofa breed Iberian haplotype H2 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|1751377095|gb|MK344650.1|,MK344650,"Sus scrofa isolate Europe haplotype 1 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|2727910492|gb|PP763926.1|,PP763926,"Sus scrofa isolate Doom3 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|33320837|gb|AF486866.1|,AF486866,"Sus scrofa breed Landerace mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|162423267|gb|EU333163.1|,EU333163,"Sus scrofa breed Chinese northeast wildboar mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|371914203|dbj|AK389718.1|,AK389718,"Sus scrofa mRNA, clone: AMP010050C03, expressed in alveolar macrophage",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|2647227870|emb|OY997226.1|,OY997226,"Sus scrofa genome assembly, organelle: mitochondrion",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|2727910394|gb|PP763919.1|,PP763919,"Sus scrofa isolate AgondaGoan2 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|209166226|gb|FJ237000.1|,FJ237000,"Sus scrofa breed European wild boar haplotype WB3 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|296939703|gb|GQ339003.1|,GQ339003,"Sus scrofa NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|288780667|dbj|AK343653.1|,AK343653,"Sus scrofa mRNA, clone:AMP010008F11, expressed in alveolar macrophages",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|11055657|gb|AF304202.1|AF304202,AF304202,"Sus scrofa breed Landrace mitochondrion, partial genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|37962869|gb|AY337045.1|,AY337045,"Sus scrofa breed Duroc mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|5835862|ref|NC_000845.1|,NC_000845,"Sus scrofa mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|209166156|gb|FJ236995.1|,FJ236995,"Sus scrofa breed Iberian haplotype H6 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|1751377137|gb|MK344653.1|,MK344653,"Sus scrofa isolate Europe haplotype 4 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|2727910408|gb|PP763920.1|,PP763920,"Sus scrofa isolate AgondaGoan3 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|2023428938|gb|CP071572.1|,CP071572,"Sus scrofa scrofa breed NS mitochondrion, complete genome",415978,Sus scrofa scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|347448639|gb|JN601068.1|,JN601068,"Sus scrofa isolate Mangalitsa swallow belly breed 1 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|2727911192|gb|PP763976.1|,PP763976,"Sus scrofa isolate Purnea1 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|2727911206|gb|PP763977.1|,PP763977,"Sus scrofa isolate Purnea2 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|1751377081|gb|MK290991.1|,MK290991,"Sus scrofa isolate Europe mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|209166212|gb|FJ236999.1|,FJ236999,"Sus scrofa breed European wild boar haplotype WB2 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|2120245608|gb|MT483613.1|,MT483613,"Sus scrofa isolate DM1122 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|1751377109|gb|MK344651.1|,MK344651,"Sus scrofa isolate Europe haplotype 2 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|982189145|gb|KT279760.1|,KT279760,"Sus scrofa haplotype D mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|209166240|gb|FJ237001.1|,FJ237001,"Sus scrofa breed European wild boar haplotype WB4 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|1245685956|gb|MF183224.1|,MF183224,"Sus scrofa breed Swallow-belly Mangalica mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|2727910380|gb|PP763918.1|,PP763918,"Sus scrofa isolate AgondaGoan1 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|209166254|gb|FJ237002.1|,FJ237002,"Sus scrofa breed European wild boar haplotype WB5 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|4220565|emb|AJ002189.1|,AJ002189,Sus scrofa complete mitochondrial DNA,9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|2727910436|gb|PP763922.1|,PP763922,"Sus scrofa isolate AgondaGoan5 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|669176308|gb|KJ746666.1|,KJ746666,"Sus scrofa domesticus breed Mangalica mitochondrion, complete genome",9825,Sus scrofa domesticus,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|2321859529|gb|OM236539.1|,OM236539,"Sus scrofa domesticus mitochondrion, complete genome",9825,Sus scrofa domesticus,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|11055643|gb|AF304201.1|AF304201,AF304201,"Sus scrofa breed Italian wild boar mitochondrion, partial genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|209166114|gb|FJ236992.1|,FJ236992,"Sus scrofa breed Iberian haplotype H3 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|2727910450|gb|PP763923.1|,PP763923,"Sus scrofa isolate AgondaGoan6 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|223976078|ref|NC_012095.1|,NC_012095,"Sus scrofa domesticus mitochondrion, complete genome",9825,Sus scrofa domesticus,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|2727910534|gb|PP763929.1|,PP763929,"Sus scrofa isolate Doom6 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|443611020|gb|KC250275.1|,KC250275,"Sus scrofa breed Large White mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|1751377123|gb|MK344652.1|,MK344652,"Sus scrofa isolate Europe haplotype 3 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|1245685928|gb|MF183222.1|,MF183222,"Sus scrofa breed Blond Mangalica mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|974993700|gb|KT261430.1|,KT261430,"Sus scrofa mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|556571580|gb|KF569218.1|,KF569218,"Sus scrofa breed DLY mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|1245685970|gb|MF183225.1|,MF183225,"Sus scrofa breed Duroc mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|1013824879|gb|KT372134.1|,KT372134,"Sus scrofa isolate Y1 mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|347448695|gb|JN601072.1|,JN601072,"Sus scrofa isolate 2 breed Turopolje mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|11055671|gb|AF304203.1|AF304203,AF304203,"Sus scrofa breed Swedish wild boar mitochondrion, partial genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|1245685942|gb|MF183223.1|,MF183223,"Sus scrofa breed Red Mangalica mitochondrion, complete genome",9823,Sus scrofa,100.0,46.3705,0.0312772
+Query_6303621,Danio_rerio_chr3_003,gi|1314671729|gb|MG250527.1|,MG250527,"Sus scrofa isolate GDXE28 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2044000901|gb|MK858176.1|,MK858176,"Sus scrofa isolate Nanyang59 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|347448737|gb|JN601075.1|,JN601075,"Sus scrofa isolate 1-37-193 breed Yorkshire mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2165717835|gb|OL547465.1|,OL547465,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727911164|gb|PP763974.1|,PP763974,"Sus scrofa isolate Gurrah1 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|669176280|gb|KJ746664.1|,KJ746664,"Sus scrofa domesticus breed Pen zhou shan di mitochondrion, complete genome",9825,Sus scrofa domesticus,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2165717569|gb|OL547446.1|,OL547446,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671827|gb|MG250534.1|,MG250534,"Sus scrofa isolate GZHF10 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2165718074|gb|OL547482.1|,OL547482,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|33320865|gb|AF486868.1|,AF486868,"Sus scrofa breed Chinese Yimenghei mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|145315470|gb|EF545570.1|,EF545570,"Sus scrofa isolate wb11348 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910506|gb|PP763927.1|,PP763927,"Sus scrofa isolate Doom4 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1772811366|gb|MN550010.1|,MN550010,"Sus scrofa breed Tibetan mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910772|gb|PP763946.1|,PP763946,"Sus scrofa isolate Mali1 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|145315554|gb|EF545576.1|,EF545576,"Sus scrofa isolate diq7 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184803966|gb|KX982637.1|,KX982637,"Sus scrofa isolate Vietnam_VNF08 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|33320907|gb|AF486871.1|,AF486871,"Sus scrofa breed Chinese Yushanhei mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|794460880|gb|KP681245.1|,KP681245,"Sus scrofa breed wild boar mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|78499534|gb|DQ268530.1|,DQ268530,"Sus scrofa isolate KS02 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|45826197|gb|AY574047.1|,AY574047,"Sus scrofa isolate KWB1 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2037092945|gb|MK746097.1|,MK746097,"Sus scrofa isolate Queshan66 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1083262576|gb|KX094894.1|,KX094894,"Sus scrofa breed I pig mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2165717611|gb|OL547449.1|,OL547449,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2165717821|gb|OL547464.1|,OL547464,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|33320781|gb|AF486862.1|,AF486862,"Sus scrofa breed Chinese Tongcheng mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|465481228|gb|KC505410.1|,KC505410,"Sus scrofa breed Berkshire mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727911318|gb|PP763985.1|,PP763985,"Sus scrofa isolate TenyiVo5 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2165717891|gb|OL547469.1|,OL547469,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184804050|gb|KX982643.1|,KX982643,"Sus scrofa isolate Vietnam_VNM09 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671589|gb|MG250517.1|,MG250517,"Sus scrofa isolate BMX0013 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910996|gb|PP763962.1|,PP763962,"Sus scrofa isolate Banda7 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1071036342|gb|KX620012.1|,KX620012,"Sus scrofa isolate Enshi365 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910702|gb|PP763941.1|,PP763941,"Sus scrofa isolate NiangMegha1 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671701|gb|MG250525.1|,MG250525,"Sus scrofa isolate DB8016 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314672149|gb|MG250557.1|,MG250557,"Sus scrofa isolate tunchang6062 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2165717863|gb|OL547467.1|,OL547467,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2561340859|gb|OR260476.1|,OR260476,"Sus scrofa mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|748762942|gb|KP126939.1|,KP126939,"Sus scrofa breed Bama xiang pig mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2046218688|gb|MN025258.1|,MN025258,"Sus scrofa domesticus mitochondrion, complete genome",9825,Sus scrofa domesticus,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|33320823|gb|AF486865.1|,AF486865,"Sus scrofa breed Chinese Qingping mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|125213062|dbj|AB292606.1|,AB292606,"Sus scrofa mitochondrial DNA, 12S rRNA to ND6 region",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|45826169|gb|AY574045.1|,AY574045,"Sus scrofa breed Berkshire mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1084352609|gb|KX146493.1|,KX146493,"Sus scrofa breed hetao mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184804246|gb|KX982657.1|,KX982657,"Sus scrofa isolate Vietnam_BA24 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|145315582|gb|EF545578.1|,EF545578,"Sus scrofa isolate Aaba15 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2165717765|gb|OL547460.1|,OL547460,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314672177|gb|MG250559.1|,MG250559,"Sus scrofa isolate WZS149 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727911332|gb|PP763986.1|,PP763986,"Sus scrofa isolate Nicobari1 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184803882|gb|KX982631.1|,KX982631,"Sus scrofa isolate Russia_CO mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2165717990|gb|OL547476.1|,OL547476,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|145315694|gb|EF545586.1|,EF545586,"Sus scrofa isolate wb371 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314672205|gb|MG250561.1|,MG250561,"Sus scrofa isolate WZS889 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2037092819|gb|MK746088.1|,MK746088,"Sus scrofa isolate Huainan1 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|671184681|gb|KJ737418.1|,KJ737418,"Sus scrofa breed Hang mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1772811380|gb|MN550011.1|,MN550011,"Sus scrofa breed Hezuo mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|347448723|gb|JN601074.1|,JN601074,"Sus scrofa isolate yorkshire 1-38-177 breed Yorkshire mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|670804638|gb|KJ909516.1|,KJ909516,"Sus scrofa breed Wuzhishan mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184803896|gb|KX982632.1|,KX982632,"Sus scrofa isolate Russia_ZK mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|33320893|gb|AF486870.1|,AF486870,"Sus scrofa breed Chinese Dahuabai mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727911038|gb|PP763965.1|,PP763965,"Sus scrofa isolate Banda10 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|145315484|gb|EF545571.1|,EF545571,"Sus scrofa isolate wb11347 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|225580658|gb|DQ466081.2|,DQ466081,"Sus scrofa breed Nuogu mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|33320767|gb|AF486861.1|,AF486861,"Sus scrofa breed Chinese Erhualian mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910884|gb|PP763954.1|,PP763954,"Sus scrofa isolate Ankamali4 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2108671987|gb|MZ647672.1|,MZ647672,"Sus scrofa domesticus breed Ghungroo mitochondrion, complete genome",9825,Sus scrofa domesticus,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2037092847|gb|MK746090.1|,MK746090,"Sus scrofa isolate Huainan5 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910716|gb|PP763942.1|,PP763942,"Sus scrofa isolate NiangMegha2 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727911052|gb|PP763966.1|,PP763966,"Sus scrofa isolate Banda11 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910548|gb|PP763930.1|,PP763930,"Sus scrofa isolate Ghoongroo1 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1086928133|gb|KX147101.1|,KX147101,"Sus scrofa breed Black Muong Lay pig mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671575|gb|MG250516.1|,MG250516,"Sus scrofa isolate BMX0012 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|145315498|gb|EF545572.1|,EF545572,"Sus scrofa isolate wb11342 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671967|gb|MG250544.1|,MG250544,"Sus scrofa isolate LUC201 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|33320795|gb|AF486863.1|,AF486863,"Sus scrofa breed Chinese Jinhua mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184803994|gb|KX982639.1|,KX982639,"Sus scrofa isolate Vietnam_VNF50 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|808177047|gb|KP765602.1|,KP765602,"Sus scrofa breed Berkshire mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|671184709|gb|KJ737420.1|,KJ737420,"Sus scrofa breed Huo shou black mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910520|gb|PP763928.1|,PP763928,"Sus scrofa isolate Doom5 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184804078|gb|KX982645.1|,KX982645,"Sus scrofa isolate Vietnam_MCA5 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2563111928|gb|OR268693.1|,OR268693,"Sus scrofa breed Tunchang mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314672247|gb|MG250564.1|,MG250564,"Sus scrofa isolate WZS973 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2165717583|gb|OL547447.1|,OL547447,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|983635831|gb|KT194219.1|,KT194219,"Sus scrofa breed Wujin mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910730|gb|PP763943.1|,PP763943,"Sus scrofa isolate NiangMegha3 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671841|gb|MG250535.1|,MG250535,"Sus scrofa isolate F15F mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|586829562|gb|KF767443.1|,KF767443,"Sus scrofa breed Wuzhishan mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|238625882|gb|GQ220329.1|,GQ220329,"Sus scrofa breed Dahe mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1143566548|gb|KY432578.1|,KY432578,"Sus scrofa breed Muong Khuong Pig mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|808177061|gb|KP765603.1|,KP765603,"Sus scrofa breed Chenghua pig mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2037092833|gb|MK746089.1|,MK746089,"Sus scrofa isolate Huainan4 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1215003146|gb|KY800118.1|,KY800118,"Sus scrofa breed Ha Lang pig mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|145315442|gb|EF545568.1|,EF545568,"Sus scrofa isolate wb11351 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|698854369|gb|KM200762.1|,KM200762,"Sus scrofa breed Dahuabai mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|145315540|gb|EF545575.1|,EF545575,"Sus scrofa isolate shg184 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184804260|gb|KX982658.1|,KX982658,"Sus scrofa isolate Vietnam_BA30 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184804022|gb|KX982641.1|,KX982641,"Sus scrofa isolate Vietnam_VNM03 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184803868|gb|KX982630.1|,KX982630,"Sus scrofa isolate Russia_W2 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|45826211|gb|AY574048.1|,AY574048,"Sus scrofa breed Large White mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1777435031|gb|MK248681.1|,MK248681,"Sus scrofa breed Nicobari pig mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2165718060|gb|OL547481.1|,OL547481,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910674|gb|PP763939.1|,PP763939,"Sus scrofa isolate ManipuriBlack4 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910646|gb|PP763937.1|,PP763937,"Sus scrofa isolate ManipuriBlack2 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1086928119|gb|KX147100.1|,KX147100,"Sus scrofa breed Mong Cai pig mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671561|gb|MG250515.1|,MG250515,"Sus scrofa isolate BMX0005 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727911080|gb|PP763968.1|,PP763968,"Sus scrofa isolate Banda13 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|673922049|gb|KM101042.1|,KM101042,"Sus scrofa breed Guanling mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|83779145|gb|DQ334861.1|,DQ334861,"Sus scrofa isolate JNP10 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2037092931|gb|MK746096.1|,MK746096,"Sus scrofa isolate Queshan63 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727911108|gb|PP763970.1|,PP763970,"Sus scrofa isolate Banda15 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|671184751|gb|KJ737423.1|,KJ737423,"Sus scrofa breed Lu chuan mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|698173772|gb|KM094194.1|,KM094194,"Sus scrofa breed Sandu black mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|557880992|gb|KF660222.1|,KF660222,"Sus scrofa scrofa breed Qianshao Spotted pig mitochondrion, complete genome",415978,Sus scrofa scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|145315750|gb|EF545590.1|,EF545590,"Sus scrofa isolate Bihu208 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2037092917|gb|MK746095.1|,MK746095,"Sus scrofa isolate Nanyang56 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1071036300|gb|KX620009.1|,KX620009,"Sus scrofa isolate Enshi10 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910842|gb|PP763951.1|,PP763951,"Sus scrofa isolate Ankamali1 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671603|gb|MG250518.1|,MG250518,"Sus scrofa isolate BMX0014 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184804218|gb|KX982655.1|,KX982655,"Sus scrofa isolate Vietnam_BA12 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1049741382|gb|KU556691.1|,KU556691,"Sus scrofa breed Mong Cai mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2107798264|gb|MZ846190.1|,MZ846190,"Sus scrofa domesticus breed Doom mitochondrion, complete genome",9825,Sus scrofa domesticus,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1807606826|gb|MH603005.1|,MH603005,"Sus scrofa breed Fengjing mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|669176294|gb|KJ746665.1|,KJ746665,"Sus scrofa domesticus breed Ya cha mitochondrion, complete genome",9825,Sus scrofa domesticus,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|808177075|gb|KP765604.1|,KP765604,"Sus scrofa breed Wuhuang pig mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2147638638|gb|OK329967.1|,OK329967,"Sus scrofa mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184804274|gb|KX982659.1|,KX982659,"Sus scrofa isolate Vietnam_BV02 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314672219|gb|MG250562.1|,MG250562,"Sus scrofa isolate WZS947 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727911248|gb|PP763980.1|,PP763980,"Sus scrofa isolate Purnea5 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314672289|gb|MG250567.1|,MG250567,"Sus scrofa isolate YDH32 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|460418110|gb|KC493611.1|,KC493611,"Sus scrofa isolate T5 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|145315526|gb|EF545574.1|,EF545574,"Sus scrofa isolate saba1 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2165717695|gb|OL547455.1|,OL547455,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|145315652|gb|EF545583.1|,EF545583,"Sus scrofa isolate bm2 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|757174577|gb|KP294522.1|,KP294522,"Sus scrofa breed Dabieshan black pig mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314672051|gb|MG250550.1|,MG250550,"Sus scrofa isolate MB16F mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|251829649|gb|GQ351599.1|,GQ351599,"Sus scrofa isolate KNP1501 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727911178|gb|PP763975.1|,PP763975,"Sus scrofa isolate Gurrah2 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727911220|gb|PP763978.1|,PP763978,"Sus scrofa isolate Purnea3 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|145315638|gb|EF545582.1|,EF545582,"Sus scrofa isolate qp4014 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727911290|gb|PP763983.1|,PP763983,"Sus scrofa isolate TenyiVo3 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|698174237|gb|KM433673.1|,KM433673,"Sus scrofa breed Longlin mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2563111914|gb|OR268692.1|,OR268692,"Sus scrofa breed Wuzhishan mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910968|gb|PP763960.1|,PP763960,"Sus scrofa isolate Banda5 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|571031644|gb|KF752550.1|,KF752550,"Sus scrofa breed Yorkshine mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184804092|gb|KX982646.1|,KX982646,"Sus scrofa isolate Vietnam_MCA8 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910618|gb|PP763935.1|,PP763935,"Sus scrofa isolate Ghoongroo6 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727911234|gb|PP763979.1|,PP763979,"Sus scrofa isolate Purnea4 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|671184723|gb|KJ737421.1|,KJ737421,"Sus scrofa breed Lai wu mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2165717723|gb|OL547457.1|,OL547457,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|33320809|gb|AF486864.1|,AF486864,"Sus scrofa breed Chinese Min mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2165717667|gb|OL547453.1|,OL547453,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|145315722|gb|EF545588.1|,EF545588,"Sus scrofa isolate huzu4 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184804120|gb|KX982648.1|,KX982648,"Sus scrofa isolate Vietnam_MCB11 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|33320851|gb|AF486867.1|,AF486867,"Sus scrofa breed Chinese Wuzhishan mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|33320949|gb|AF486874.1|,AF486874,"Sus scrofa breed Large White mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314672261|gb|MG250565.1|,MG250565,"Sus scrofa isolate YDH14 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671645|gb|MG250521.1|,MG250521,"Sus scrofa isolate dahuabai23 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671897|gb|MG250539.1|,MG250539,"Sus scrofa isolate lantang25 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|671184667|gb|KJ737417.1|,KJ737417,"Sus scrofa breed Ding Yuan mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2165717793|gb|OL547462.1|,OL547462,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2250084150|gb|OM363676.1|,OM363676,"Sus scrofa domesticus mitochondrion, complete genome",9825,Sus scrofa domesticus,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1777434411|gb|MK251046.1|,MK251046,"Sus scrofa mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314672191|gb|MG250560.1|,MG250560,"Sus scrofa isolate WZS809 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|685497081|ref|NC_024860.1|,NC_024860,"Sus celebensis mitochondrion, complete genome",273789,Sus celebensis,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314672275|gb|MG250566.1|,MG250566,"Sus scrofa isolate YDH17 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2307852130|gb|OK326862.1|,OK326862,"Sus scrofa isolate LJ1 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910660|gb|PP763938.1|,PP763938,"Sus scrofa isolate ManipuriBlack3 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2561340430|gb|OR255999.1|,OR255999,"Sus scrofa mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314672037|gb|MG250549.1|,MG250549,"Sus scrofa isolate LUC208 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|157056521|gb|EU090702.1|,EU090702,"Sus scrofa isolate S1 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671813|gb|MG250533.1|,MG250533,"Sus scrofa isolate GZ08F mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727911360|gb|PP763988.1|,PP763988,"Sus scrofa isolate Wakchambil2 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910912|gb|PP763956.1|,PP763956,"Sus scrofa isolate Banda1 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910800|gb|PP763948.1|,PP763948,"Sus scrofa isolate Mali3 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2165718018|gb|OL547478.1|,OL547478,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|145315428|gb|EF545567.1|,EF545567,"Sus scrofa isolate S722 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|306485876|gb|DQ518915.2|,DQ518915,"Sus scrofa breed Lanyu mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2165717597|gb|OL547448.1|,OL547448,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|671184695|gb|KJ737419.1|,KJ737419,"Sus scrofa breed Huai mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2165717541|gb|OL547444.1|,OL547444,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1929547443|gb|MT653633.1|,MT653633,"Sus scrofa mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727911346|gb|PP763987.1|,PP763987,"Sus scrofa isolate Wakchambil1 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|748762956|gb|KP126954.1|,KP126954,"Sus scrofa breed Luchuan pig mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|697738703|gb|KM250424.1|,KM250424,"Sus scrofa breed Congjiang miniature mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184804036|gb|KX982642.1|,KX982642,"Sus scrofa isolate Vietnam_VNM07 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2566847231|gb|OR397961.1|,OR397961,"Sus scrofa breed Lingao mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910954|gb|PP763959.1|,PP763959,"Sus scrofa isolate Banda4 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|757173677|gb|KP301137.1|,KP301137,"Sus scrofa scrofa mitochondrion, complete genome",415978,Sus scrofa scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671673|gb|MG250523.1|,MG250523,"Sus scrofa isolate DB24 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910828|gb|PP763950.1|,PP763950,"Sus scrofa isolate Mali5 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910856|gb|PP763952.1|,PP763952,"Sus scrofa isolate Ankamali2 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2248387900|gb|ON060839.1|,ON060839,"Sus scrofa mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2044000873|gb|MK858174.1|,MK858174,"Sus scrofa isolate Nanyang41 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671939|gb|MG250542.1|,MG250542,"Sus scrofa isolate LL7105 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|33320753|gb|AF486860.1|,AF486860,"Sus scrofa breed Chinese Rongchang mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2152011340|gb|MK688993.1|,MK688993,"Sus scrofa breed Bama mininature pig mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671771|gb|MG250530.1|,MG250530,"Sus scrofa isolate GF99 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|550600859|gb|KF472179.1|,KF472179,"Sus scrofa breed Daweizi mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910898|gb|PP763955.1|,PP763955,"Sus scrofa isolate Ankamali5 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2044000831|gb|MK858171.1|,MK858171,"Sus scrofa isolate Yuxi22 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|668349796|gb|KJ720205.1|,KJ720205,"Sus scrofa breed Laiwu Black pig mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671855|gb|MG250536.1|,MG250536,"Sus scrofa isolate H19M mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727911122|gb|PP763971.1|,PP763971,"Sus scrofa isolate Banda16 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671911|gb|MG250540.1|,MG250540,"Sus scrofa isolate lantang26 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727911262|gb|PP763981.1|,PP763981,"Sus scrofa isolate TenyiVo1 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|460418054|gb|KC493607.1|,KC493607,"Sus scrofa isolate T1 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2165717919|gb|OL547471.1|,OL547471,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|145315610|gb|EF545580.1|,EF545580,"Sus scrofa isolate wbdb6 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727911136|gb|PP763972.1|,PP763972,"Sus scrofa isolate Banda17 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|460418124|gb|KC493612.1|,KC493612,"Sus scrofa isolate T6 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2250084220|gb|OM634652.1|,OM634652,"Sus scrofa domesticus breed Ghungroo mitochondrion, complete genome",9825,Sus scrofa domesticus,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|3005406057|dbj|LC880088.1|,LC880088,"Sus scrofa 20230224_TCRDL_Sscr mitochondrial DNA, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2250084164|gb|OM386979.1|,OM386979,"Sus scrofa domesticus breed Tenyi Vo mitochondrion, complete genome",9825,Sus scrofa domesticus,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|145315790|gb|EF545593.1|,EF545593,"Sus scrofa isolate X269 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|974993686|gb|KT261429.1|,KT261429,"Sus scrofa mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|673922063|gb|KM101043.1|,KM101043,"Sus scrofa breed Lantang mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910464|gb|PP763924.1|,PP763924,"Sus scrofa isolate Doom1 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2037092903|gb|MK746094.1|,MK746094,"Sus scrofa isolate Nanyang54 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|33320921|gb|AF486872.1|,AF486872,"Sus scrofa breed Chinese Jiangquhai mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|76262521|gb|DQ207755.1|,DQ207755,"Sus scrofa isolate KS31 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|983635845|gb|KT194220.1|,KT194220,"Sus scrofa breed Saba mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1071036314|gb|KX620010.1|,KX620010,"Sus scrofa isolate Enshi20 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|76262549|gb|DQ207753.1|,DQ207753,"Sus scrofa isolate KS17 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|443610992|gb|KC250273.1|,KC250273,"Sus scrofa breed Xiang mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1215003257|gb|KY964306.1|,KY964306,"Sus scrofa breed Huong pig mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|983635817|gb|KT194218.1|,KT194218,"Sus scrofa breed Guangming small-ear mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|586946472|gb|KF971862.1|,KF971862,"Sus scrofa domesticus breed Min mitochondrion, complete genome",9825,Sus scrofa domesticus,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910632|gb|PP763936.1|,PP763936,"Sus scrofa isolate ManipuriBlack1 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2165718004|gb|OL547477.1|,OL547477,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184803938|gb|KX982635.1|,KX982635,"Sus scrofa isolate Russia_T3 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|145315736|gb|EF545589.1|,EF545589,"Sus scrofa isolate yimh42 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184804162|gb|KX982651.1|,KX982651,"Sus scrofa isolate Vietnam_MCC09 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2102343205|gb|MW534270.1|,MW534270,"Sus scrofa domesticus breed Gannan wild Tibetan pig mitochondrion, complete genome",9825,Sus scrofa domesticus,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184804190|gb|KX982653.1|,KX982653,"Sus scrofa isolate Vietnam_BA7 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2165717513|gb|OL547442.1|,OL547442,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|459353560|gb|KC469586.1|,KC469586,"Sus scrofa domesticus breed Chinese Jinhua pig mitochondrion, complete genome",9825,Sus scrofa domesticus,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671631|gb|MG250520.1|,MG250520,"Sus scrofa isolate dahuabai09 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|33320683|gb|AF486855.1|,AF486855,"Sus scrofa breed Chinese Zhong Meishan mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|982189117|gb|KT279758.1|,KT279758,"Sus scrofa haplotype A mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671743|gb|MG250528.1|,MG250528,"Sus scrofa isolate GDXE32 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671883|gb|MG250538.1|,MG250538,"Sus scrofa isolate lantang24 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2250084178|gb|OM453834.1|,OM453834,"Sus scrofa domesticus breed Zovawk mitochondrion, complete genome",9825,Sus scrofa domesticus,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2512647706|gb|OQ689020.1|,OQ689020,"Sus scrofa breed mashen mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|3005406155|dbj|LC880095.1|,LC880095,"Sus scrofa 20230310_TCRDL_Sscr mitochondrial DNA, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727911010|gb|PP763963.1|,PP763963,"Sus scrofa isolate Banda8 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2165717849|gb|OL547466.1|,OL547466,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910814|gb|PP763949.1|,PP763949,"Sus scrofa isolate Mali4 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1561759576|gb|MG837549.1|,MG837549,"Sus scrofa isolate TP mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727911024|gb|PP763964.1|,PP763964,"Sus scrofa isolate Banda9 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910786|gb|PP763947.1|,PP763947,"Sus scrofa isolate Mali2 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671687|gb|MG250524.1|,MG250524,"Sus scrofa isolate DB5005 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1899178512|gb|MN624263.1|,MN624263,"Sus scrofa mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184803952|gb|KX982636.1|,KX982636,"Sus scrofa isolate Vietnam_VNF06 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|312233363|ref|NC_014692.1|,NC_014692,"Sus scrofa taiwanensis mitochondrion, complete genome",310261,Sus scrofa taivanus,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|145315708|gb|EF545587.1|,EF545587,"Sus scrofa isolate huzu2 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2165717948|gb|OL547473.1|,OL547473,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671547|gb|MG250514.1|,MG250514,"Sus scrofa isolate BMX0001 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910576|gb|PP763932.1|,PP763932,"Sus scrofa isolate Ghoongroo3 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671925|gb|MG250541.1|,MG250541,"Sus scrofa isolate LL0012 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671995|gb|MG250546.1|,MG250546,"Sus scrofa isolate LUC202 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2561340873|gb|OR260477.1|,OR260477,"Sus scrofa mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2037092875|gb|MK746092.1|,MK746092,"Sus scrofa isolate Yuxi24 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|699046396|gb|KM275217.1|,KM275217,"Sus scrofa breed Luchuan mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314672093|gb|MG250553.1|,MG250553,"Sus scrofa isolate PTHF7 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2076239742|gb|MT501674.1|,MT501674,"Sus scrofa breed Ghungroo Pig mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|443611006|gb|KC250274.1|,KC250274,"Sus scrofa breed Lantang mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727911304|gb|PP763984.1|,PP763984,"Sus scrofa isolate TenyiVo4 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314672009|gb|MG250547.1|,MG250547,"Sus scrofa isolate LUC206 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727911150|gb|PP763973.1|,PP763973,"Sus scrofa isolate Banda18 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2165717639|gb|OL547451.1|,OL547451,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|145315512|gb|EF545573.1|,EF545573,"Sus scrofa isolate wb11365 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727911276|gb|PP763982.1|,PP763982,"Sus scrofa isolate TenyiVo2 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1071036328|gb|KX620011.1|,KX620011,"Sus scrofa isolate Enshi144 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|460418096|gb|KC493610.1|,KC493610,"Sus scrofa isolate T4 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|342316091|gb|DQ534707.2|,DQ534707,"Sus scrofa breed Taoyuan mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|576597389|gb|KF888634.1|,KF888634,"Sus scrofa mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910940|gb|PP763958.1|,PP763958,"Sus scrofa isolate Banda3 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|465481196|gb|KC505408.1|,KC505408,"Sus scrofa breed Wujin pig mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671715|gb|MG250526.1|,MG250526,"Sus scrofa isolate GDXE12 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|689197688|gb|KM073256.1|,KM073256,"Sus scrofa breed Tibetan mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314672023|gb|MG250548.1|,MG250548,"Sus scrofa isolate LUC207 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671785|gb|MG250531.1|,MG250531,"Sus scrofa isolate GGZM02 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|11055629|gb|AF304200.1|AF304200,AF304200,"Sus scrofa breed Chinese Meishan mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727911066|gb|PP763967.1|,PP763967,"Sus scrofa isolate Banda12 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2987592049|gb|PV693689.1|,PV693689,"Sus scrofa isolate VN mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671953|gb|MG250543.1|,MG250543,"Sus scrofa isolate LL7839 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|159162010|gb|EF375877.3|,EF375877,"Sus scrofa breed type I Lanyu mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|983635803|gb|KT194217.1|,KT194217,"Sus scrofa breed Baoshan mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|460418068|gb|KC493608.1|,KC493608,"Sus scrofa isolate T2 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184804176|gb|KX982652.1|,KX982652,"Sus scrofa isolate Vietnam_MCN16 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|727826711|gb|KM998967.1|,KM998967,"Sus scrofa breed Meishan mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910590|gb|PP763933.1|,PP763933,"Sus scrofa isolate Ghoongroo4 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|465481179|gb|KC505407.1|,KC505407,"Sus scrofa breed Penzhou pig mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910982|gb|PP763961.1|,PP763961,"Sus scrofa isolate Banda6 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184804106|gb|KX982647.1|,KX982647,"Sus scrofa isolate Vietnam_MCA18 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|794460847|gb|KP681244.1|,KP681244,"Sus scrofa breed Wenchang mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1374427572|gb|MF143597.1|,MF143597,"Sus scrofa breed Kele mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1337016229|gb|MG009446.1|,MG009446,"Sus scrofa breed Dapulian pig mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910926|gb|PP763957.1|,PP763957,"Sus scrofa isolate Banda2 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1784319997|gb|MN258706.1|,MN258706,"Sus scrofa isolate HEBAO 01 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2044000845|gb|MK858172.1|,MK858172,"Sus scrofa isolate Yuxi23 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|76262535|gb|DQ207754.1|,DQ207754,"Sus scrofa isolate KS29 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|756141089|gb|KP257599.1|,KP257599,"Sus scrofa breed Qingyu mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|33320697|gb|AF486856.1|,AF486856,"Sus scrofa breed Chinese Zang mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|33320879|gb|AF486869.1|,AF486869,"Sus scrofa breed Chinese Diannan Short-ear mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184804148|gb|KX982650.1|,KX982650,"Sus scrofa isolate Vietnam_MCB40 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|808177089|gb|KP765605.1|,KP765605,"Sus scrofa breed Changbai mountains wild boar mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|145315666|gb|EF545584.1|,EF545584,"Sus scrofa isolate wbvnm7 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2165717779|gb|OL547461.1|,OL547461,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184804232|gb|KX982656.1|,KX982656,"Sus scrofa isolate Vietnam_BA19 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184803924|gb|KX982634.1|,KX982634,"Sus scrofa isolate Russia_T2 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|794460770|gb|KP681242.1|,KP681242,"Sus scrofa breed Lingao mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314672135|gb|MG250556.1|,MG250556,"Sus scrofa isolate tunchang2007 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|145315680|gb|EF545585.1|,EF545585,"Sus scrofa isolate wb326 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2044000817|gb|MK858170.1|,MK858170,"Sus scrofa isolate Yuxi21 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184804204|gb|KX982654.1|,KX982654,"Sus scrofa isolate Vietnam_BA9 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|756141075|gb|KP257598.1|,KP257598,"Sus scrofa breed Liangshan mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2250084192|gb|OM468891.1|,OM468891,"Sus scrofa domesticus breed Lumsniang mitochondrion, complete genome",9825,Sus scrofa domesticus,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|156144891|gb|DQ972936.3|,DQ972936,"Sus scrofa breed Type II Lanyu mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671659|gb|MG250522.1|,MG250522,"Sus scrofa isolate dahuabai24 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671869|gb|MG250537.1|,MG250537,"Sus scrofa isolate H31M mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910688|gb|PP763940.1|,PP763940,"Sus scrofa isolate ManipuriBlack5 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314672233|gb|MG250563.1|,MG250563,"Sus scrofa isolate WZS955 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|238625868|gb|GQ220328.1|,GQ220328,"Sus scrofa breed Banna Mini mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|145315764|gb|EF545591.1|,EF545591,"Sus scrofa isolate Bihu199 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|83779131|gb|DQ334860.1|,DQ334860,"Sus scrofa isolate JNP8 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1777435045|gb|MK248682.1|,MK248682,"Sus scrofa breed Andaman Desi pig mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|693583934|gb|KM044239.1|,KM044239,"Sus scrofa breed Rongchang mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671617|gb|MG250519.1|,MG250519,"Sus scrofa isolate BMX0015 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2044000929|gb|MK858178.1|,MK858178,"Sus scrofa isolate Queshan65 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2414081400|gb|ON706057.1|,ON706057,"Sus scrofa domesticus mitochondrion, complete genome",9825,Sus scrofa domesticus,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1028336312|gb|KT943507.1|,KT943507,"Sus scrofa breed Hezuo mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|157144245|dbj|AB298688.1|,AB298688,"Sus scrofa mitochondrial DNA, complete genome, breed: Ohmini Pig",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184804064|gb|KX982644.1|,KX982644,"Sus scrofa isolate Vietnam_VNM11 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2165718046|gb|OL547480.1|,OL547480,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2044000859|gb|MK858173.1|,MK858173,"Sus scrofa isolate Yuxi35 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671981|gb|MG250545.1|,MG250545,"Sus scrofa isolate LUC2016 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|557161781|gb|KF601700.1|,KF601700,"Sus scrofa breed Taoyuan Black mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|80972992|gb|DQ274110.1|,DQ274110,"Sus scrofa isolate JNPL02 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2165717807|gb|OL547463.1|,OL547463,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314672079|gb|MG250552.1|,MG250552,"Sus scrofa isolate MB3M mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|145315596|gb|EF545579.1|,EF545579,"Sus scrofa isolate wbjx4b mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|347448667|gb|JN601070.1|,JN601070,"Sus scrofa isolate A breed Meishan mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727911094|gb|PP763969.1|,PP763969,"Sus scrofa isolate Banda14 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|145315624|gb|EF545581.1|,EF545581,"Sus scrofa isolate qp442 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314672065|gb|MG250551.1|,MG250551,"Sus scrofa isolate MB18M mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184804288|gb|KX982660.1|,KX982660,"Sus scrofa isolate Vietnam_MBT4 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2044000943|gb|MK858179.1|,MK858179,"Sus scrofa isolate Queshan75 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|550600845|gb|KF472178.1|,KF472178,"Sus scrofa breed Ningxiang mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910870|gb|PP763953.1|,PP763953,"Sus scrofa isolate Ankamali3 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910562|gb|PP763931.1|,PP763931,"Sus scrofa isolate Ghoongroo2 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|697738682|gb|KM259826.1|,KM259826,"Sus scrofa breed Wuyi Black mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|33320711|gb|AF486857.1|,AF486857,"Sus scrofa breed Chinese Ningxiang mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|145315456|gb|EF545569.1|,EF545569,"Sus scrofa isolate wb11349 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184803910|gb|KX982633.1|,KX982633,"Sus scrofa isolate Russia_T1 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|465481160|gb|KC505406.1|,KC505406,"Sus scrofa breed Neijiang pig mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1561759590|gb|MG837550.1|,MG837550,"Sus scrofa isolate RC mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|460418082|gb|KC493609.1|,KC493609,"Sus scrofa isolate T3 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2186271351|gb|OM069301.1|,OM069301,"Sus scrofa domesticus mitochondrion, complete genome",9825,Sus scrofa domesticus,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2106369929|gb|MW342493.1|,MW342493,"Sus scrofa breed Dongkhe pig mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671757|gb|MG250529.1|,MG250529,"Sus scrofa isolate GF38 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2566847245|gb|OR397962.1|,OR397962,"Sus scrofa breed Wenchang mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|157056535|gb|EU090703.1|,EU090703,"Sus scrofa isolate KS14 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|465481242|gb|KC505411.1|,KC505411,"Sus scrofa breed wild boar mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|465481213|gb|KC505409.1|,KC505409,"Sus scrofa breed Yanan pig mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2037092889|gb|MK746093.1|,MK746093,"Sus scrofa isolate Yuxi25 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314672107|gb|MG250554.1|,MG250554,"Sus scrofa isolate PTHM16 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|794460802|gb|KP681243.1|,KP681243,"Sus scrofa breed Wuzhishan2 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|693583948|gb|KM044240.1|,KM044240,"Sus scrofa breed Diannan mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184804008|gb|KX982640.1|,KX982640,"Sus scrofa isolate Vietnam_VNF54 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2172426986|gb|MZ703185.1|,MZ703185,"Sus scrofa domesticus isolate Niang Megha 1 mitochondrion, complete genome",9825,Sus scrofa domesticus,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|669176252|gb|KJ746662.1|,KJ746662,"Sus scrofa domesticus breed Ma shen mitochondrion, complete genome",9825,Sus scrofa domesticus,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1337016215|gb|MG009445.1|,MG009445,"Sus scrofa breed Dapulian pig mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2044000803|gb|MK858169.1|,MK858169,"Sus scrofa isolate Huainan13 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184804134|gb|KX982649.1|,KX982649,"Sus scrofa isolate Vietnam_MCB27 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|550600831|gb|KF472177.1|,KF472177,"Sus scrofa breed Shaziling mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|33320739|gb|AF486859.1|,AF486859,"Sus scrofa breed Chinese Xiang mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|671184737|gb|KJ737422.1|,KJ737422,"Sus scrofa breed Long lin mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2044000887|gb|MK858175.1|,MK858175,"Sus scrofa isolate Nanyang53 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314671799|gb|MG250532.1|,MG250532,"Sus scrofa isolate GM12 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1898549875|gb|MT199606.1|,MT199606,"Sus scrofa mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314672121|gb|MG250555.1|,MG250555,"Sus scrofa isolate putian01 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2311028818|gb|OL435713.1|,OL435713,"Sus scrofa mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2414558493|gb|ON804887.1|,ON804887,"Sus scrofa domesticus breed HDK75 mitochondrion, complete genome",9825,Sus scrofa domesticus,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1024249785|gb|KT965278.1|,KT965278,"Sus scrofa domesticus voucher CWFH_abt_1 mitochondrion, complete genome",9825,Sus scrofa domesticus,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1314672163|gb|MG250558.1|,MG250558,"Sus scrofa isolate tunchang7082 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2165717709|gb|OL547456.1|,OL547456,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184803854|gb|KX982629.1|,KX982629,"Sus scrofa isolate Russia_W1 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2044000915|gb|MK858177.1|,MK858177,"Sus scrofa isolate Queshan61 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1898549861|gb|MT199605.1|,MT199605,"Sus scrofa breed yimenghei pig mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910744|gb|PP763944.1|,PP763944,"Sus scrofa isolate NiangMegha4 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2165717681|gb|OL547454.1|,OL547454,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2250084206|gb|OM617468.1|,OM617468,"Sus scrofa domesticus breed Ghungroo mitochondrion, complete genome",9825,Sus scrofa domesticus,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|1184803980|gb|KX982638.1|,KX982638,"Sus scrofa isolate Vietnam_VNF22 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|145315776|gb|EF545592.1|,EF545592,"Sus scrofa isolate myw4 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910478|gb|PP763925.1|,PP763925,"Sus scrofa isolate Doom2 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|814936710|gb|KP223728.1|,KP223728,"Sus scrofa breed Jeuma pig mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2327629298|gb|ON715893.1|,ON715893,"Sus scrofa domesticus mitochondrion, complete genome",9825,Sus scrofa domesticus,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|145315568|gb|EF545577.1|,EF545577,"Sus scrofa isolate wei10 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2037092861|gb|MK746091.1|,MK746091,"Sus scrofa isolate Huainan6 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910758|gb|PP763945.1|,PP763945,"Sus scrofa isolate NiangMegha5 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|982189131|gb|KT279759.1|,KT279759,"Sus scrofa haplotype C mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2165717751|gb|OL547459.1|,OL547459,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|2727910604|gb|PP763934.1|,PP763934,"Sus scrofa isolate Ghoongroo5 mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|669176266|gb|KJ746663.1|,KJ746663,"Sus scrofa domesticus breed Nei jiang mitochondrion, complete genome",9825,Sus scrofa domesticus,96.0,41.8621,1.32994
+Query_6303621,Danio_rerio_chr3_003,gi|33320935|gb|AF486873.1|,AF486873,"Sus scrofa breed Chinese Wannanhua mitochondrion, complete genome",9823,Sus scrofa,96.0,41.8621,1.32994

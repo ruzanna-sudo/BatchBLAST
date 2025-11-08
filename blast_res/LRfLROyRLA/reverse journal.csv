@@ -1,0 +1,712 @@
+query_id,query_title,subject_id,subject_accession,subject_title,taxid,sci_name,identity_pct,bit_score,evalue
+Query_4235579,reverse journal,gi|1314671729|gb|MG250527.1|,MG250527,"Sus scrofa isolate GDXE28 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|46095112|gb|AY487031.1|,AY487031,"Eirenis aurolineatus voucher CS 4655 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial",256114,Eirenis aurolineatus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|45826183|gb|AY574046.1|,AY574046,"Sus scrofa breed Hampshire mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978964|gb|MW823188.1|,MW823188,"Pedioplanis branchi voucher ZMB:89316 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",2848679,Pedioplanis branchi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2044000901|gb|MK858176.1|,MK858176,"Sus scrofa isolate Nanyang59 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|347448737|gb|JN601075.1|,JN601075,"Sus scrofa isolate 1-37-193 breed Yorkshire mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717835|gb|OL547465.1|,OL547465,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910422|gb|PP763921.1|,PP763921,"Sus scrofa isolate AgondaGoan4 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2633559373|gb|OR817738.1|,OR817738,"Panthera pardus isolate Sab mitochondrion, complete genome",9691,Panthera pardus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727911164|gb|PP763974.1|,PP763974,"Sus scrofa isolate Gurrah1 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|669176280|gb|KJ746664.1|,KJ746664,"Sus scrofa domesticus breed Pen zhou shan di mitochondrion, complete genome",9825,Sus scrofa domesticus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|209166198|gb|FJ236998.1|,FJ236998,"Sus scrofa breed European wild boar haplotype WB1 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978948|gb|MW823180.1|,MW823180,"Pedioplanis branchi voucher SK393.2014 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",2848679,Pedioplanis branchi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717569|gb|OL547446.1|,OL547446,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|657306208|gb|KJ452323.1|,KJ452323,"Liolaemus araucaniensis voucher SSUC Re 012 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; and NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",1508652,Liolaemus araucaniensis,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978900|gb|MW823156.1|,MW823156,"Pedioplanis gaerdesi voucher MCZR185880 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671827|gb|MG250534.1|,MG250534,"Sus scrofa isolate GZHF10 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165718074|gb|OL547482.1|,OL547482,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2688656600|gb|OR682198.1|,OR682198,"Neofelis nebulosa mitochondrion, complete genome",61452,Neofelis nebulosa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2428833687|gb|OP930842.1|,OP930842,"Panthera leo isolate JCK10712 mitochondrion, complete genome",9689,Panthera leo,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|820869561|gb|KR132589.1|,KR132589,"Panthera leo mitochondrion, partial genome",9689,Panthera leo,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|33320865|gb|AF486868.1|,AF486868,"Sus scrofa breed Chinese Yimenghei mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|145315470|gb|EF545570.1|,EF545570,"Sus scrofa isolate wb11348 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|118344880|gb|DQ871074.1|,DQ871074,"Pedioplanis gaerdesi haplotype AMB7584 NADH dehydrogenase subunit 2 (NADH2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910506|gb|PP763927.1|,PP763927,"Sus scrofa isolate Doom4 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978892|gb|MW823152.1|,MW823152,"Pedioplanis gaerdesi voucher AMB8468 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1772811366|gb|MN550010.1|,MN550010,"Sus scrofa breed Tibetan mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910772|gb|PP763946.1|,PP763946,"Sus scrofa isolate Mali1 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|145315554|gb|EF545576.1|,EF545576,"Sus scrofa isolate diq7 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853968|gb|OK513013.1|,OK513013,"Panthera spelaea voucher VNHM GS-27 mitochondrion, complete genome",2770979,Panthera spelaea,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|209166142|gb|FJ236994.1|,FJ236994,"Sus scrofa breed Iberian haplotype H5 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184803966|gb|KX982637.1|,KX982637,"Sus scrofa isolate Vietnam_VNF08 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|33320907|gb|AF486871.1|,AF486871,"Sus scrofa breed Chinese Yushanhei mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|794460880|gb|KP681245.1|,KP681245,"Sus scrofa breed wild boar mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|84181679|gb|AY334492.2|,AY334492,"Sus scrofa isolate JNP-9 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|78499534|gb|DQ268530.1|,DQ268530,"Sus scrofa isolate KS02 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|45826197|gb|AY574047.1|,AY574047,"Sus scrofa isolate KWB1 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2037092945|gb|MK746097.1|,MK746097,"Sus scrofa isolate Queshan66 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1083262576|gb|KX094894.1|,KX094894,"Sus scrofa breed I pig mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717737|gb|OL547458.1|,OL547458,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717611|gb|OL547449.1|,OL547449,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1464425876|gb|MH588619.1|,MH588619,"Panthera pardus voucher ZMUC25/26/206 mitochondrion, partial genome",9691,Panthera pardus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717821|gb|OL547464.1|,OL547464,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|209166170|gb|FJ236996.1|,FJ236996,"Sus scrofa breed Duroc haplotype D1 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853814|gb|OK513002.1|,OK513002,"Panthera spelaea voucher PIN 3915-121 mitochondrion, complete genome",2770979,Panthera spelaea,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|33320781|gb|AF486862.1|,AF486862,"Sus scrofa breed Chinese Tongcheng mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|465481228|gb|KC505410.1|,KC505410,"Sus scrofa breed Berkshire mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717499|gb|OL547441.1|,OL547441,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727911318|gb|PP763985.1|,PP763985,"Sus scrofa isolate TenyiVo5 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978910|gb|MW823161.1|,MW823161,"Pedioplanis gaerdesi voucher Z37926 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853660|gb|OK512991.1|,OK512991,"Panthera spelaea voucher FAM 69094 mitochondrion, complete genome",2770979,Panthera spelaea,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978926|gb|MW823169.1|,MW823169,"Pedioplanis gaerdesi voucher MCZR185884 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717891|gb|OL547469.1|,OL547469,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|347448611|gb|JN601066.1|,JN601066,"Sus scrofa isolate Mangalitsa Blonde breed 43-5 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|762006652|gb|KP001506.1|,KP001506,"Panthera leo isolate 42_DRC mitochondrion, complete genome",9689,Panthera leo,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184804050|gb|KX982643.1|,KX982643,"Sus scrofa isolate Vietnam_VNM09 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671589|gb|MG250517.1|,MG250517,"Sus scrofa isolate BMX0013 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910996|gb|PP763962.1|,PP763962,"Sus scrofa isolate Banda7 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1071036342|gb|KX620012.1|,KX620012,"Sus scrofa isolate Enshi365 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1043523517|gb|KU234271.1|,KU234271,"Panthera leo persica breed Indian mitochondrion, complete genome",83386,Panthera leo persica,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910702|gb|PP763941.1|,PP763941,"Sus scrofa isolate NiangMegha1 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1040461015|gb|KU133958.1|,KU133958,"Neofelis nebulosa mitochondrion, complete genome",61452,Neofelis nebulosa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671701|gb|MG250525.1|,MG250525,"Sus scrofa isolate DB8016 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314672149|gb|MG250557.1|,MG250557,"Sus scrofa isolate tunchang6062 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717863|gb|OL547467.1|,OL547467,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|33320725|gb|AF486858.1|,AF486858,"Sus scrofa breed Duroc mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978944|gb|MW823178.1|,MW823178,"Pedioplanis branchi voucher CAS:214793 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",2848679,Pedioplanis branchi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2561340859|gb|OR260476.1|,OR260476,"Sus scrofa mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|748762942|gb|KP126939.1|,KP126939,"Sus scrofa breed Bama xiang pig mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132854052|gb|OK513019.1|,OK513019,"Panthera leo atrox voucher NTC14-19 mitochondrion, complete genome",402889,Panthera leo atrox,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|157056425|gb|EU117375.1|,EU117375,"Sus scrofa breed Iberian mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2046218688|gb|MN025258.1|,MN025258,"Sus scrofa domesticus mitochondrion, complete genome",9825,Sus scrofa domesticus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|33320823|gb|AF486865.1|,AF486865,"Sus scrofa breed Chinese Qingping mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|125213062|dbj|AB292606.1|,AB292606,"Sus scrofa mitochondrial DNA, 12S rRNA to ND6 region",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|45826169|gb|AY574045.1|,AY574045,"Sus scrofa breed Berkshire mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|115546398|dbj|AK230917.1|,AK230917,"Sus scrofa mRNA, clone:AMP010064B01, expressed in alveolar macrophage",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1084352609|gb|KX146493.1|,KX146493,"Sus scrofa breed hetao mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978906|gb|MW823159.1|,MW823159,"Pedioplanis gaerdesi voucher CAS:214729 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184804246|gb|KX982657.1|,KX982657,"Sus scrofa isolate Vietnam_BA24 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|209166128|gb|FJ236993.1|,FJ236993,"Sus scrofa breed Iberian haplotype H4 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978968|gb|MW823190.1|,MW823190,"Pedioplanis branchi voucher ZMB:89318 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",2848679,Pedioplanis branchi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|145315582|gb|EF545578.1|,EF545578,"Sus scrofa isolate Aaba15 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853898|gb|OK513008.1|,OK513008,"Panthera spelaea voucher IEM BL-0418-L mitochondrion, complete genome",2770979,Panthera spelaea,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717765|gb|OL547460.1|,OL547460,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314672177|gb|MG250559.1|,MG250559,"Sus scrofa isolate WZS149 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978902|gb|MW823157.1|,MW823157,"Pedioplanis gaerdesi voucher MCZR185876 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717555|gb|OL547445.1|,OL547445,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053979098|gb|MW823255.1|,MW823255,"Pedioplanis branchi voucher ZMB:89309 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",2848679,Pedioplanis branchi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727911332|gb|PP763986.1|,PP763986,"Sus scrofa isolate Nicobari1 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184803882|gb|KX982631.1|,KX982631,"Sus scrofa isolate Russia_CO mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717990|gb|OL547476.1|,OL547476,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|145315694|gb|EF545586.1|,EF545586,"Sus scrofa isolate wb371 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314672205|gb|MG250561.1|,MG250561,"Sus scrofa isolate WZS889 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2037092819|gb|MK746088.1|,MK746088,"Sus scrofa isolate Huainan1 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|671184681|gb|KJ737418.1|,KJ737418,"Sus scrofa breed Hang mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1772811380|gb|MN550011.1|,MN550011,"Sus scrofa breed Hezuo mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2633559415|gb|OR817741.1|,OR817741,"Panthera pardus isolate Pie mitochondrion, complete genome",9691,Panthera pardus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|347448723|gb|JN601074.1|,JN601074,"Sus scrofa isolate yorkshire 1-38-177 breed Yorkshire mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|209166184|gb|FJ236997.1|,FJ236997,"Sus scrofa breed Duroc haplotype D2 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|670804638|gb|KJ909516.1|,KJ909516,"Sus scrofa breed Wuzhishan mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|37576251|gb|AY184399.1|,AY184399,"Pedioplanis inornata NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial gene for mitochondrial product",219177,Pedioplanis inornata,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184803896|gb|KX982632.1|,KX982632,"Sus scrofa isolate Russia_ZK mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|33320893|gb|AF486870.1|,AF486870,"Sus scrofa breed Chinese Dahuabai mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727911038|gb|PP763965.1|,PP763965,"Sus scrofa isolate Banda10 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|145315484|gb|EF545571.1|,EF545571,"Sus scrofa isolate wb11347 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978896|gb|MW823154.1|,MW823154,"Pedioplanis gaerdesi voucher MCZR184959 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978894|gb|MW823153.1|,MW823153,"Pedioplanis gaerdesi voucher MCZR185874 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|225580658|gb|DQ466081.2|,DQ466081,"Sus scrofa breed Nuogu mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|459353574|gb|KC469587.1|,KC469587,"Sus scrofa domesticus breed pietrain mitochondrion, complete genome",9825,Sus scrofa domesticus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|33320767|gb|AF486861.1|,AF486861,"Sus scrofa breed Chinese Erhualian mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910884|gb|PP763954.1|,PP763954,"Sus scrofa isolate Ankamali4 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|209166268|gb|FJ237003.1|,FJ237003,"Sus scrofa breed European wild boar haplotype WB6 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2108671987|gb|MZ647672.1|,MZ647672,"Sus scrofa domesticus breed Ghungroo mitochondrion, complete genome",9825,Sus scrofa domesticus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1464425862|gb|MH588618.1|,MH588618,"Panthera pardus voucher ZMUC24 mitochondrion, partial genome",9691,Panthera pardus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2037092847|gb|MK746090.1|,MK746090,"Sus scrofa isolate Huainan5 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910716|gb|PP763942.1|,PP763942,"Sus scrofa isolate NiangMegha2 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727911052|gb|PP763966.1|,PP763966,"Sus scrofa isolate Banda11 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910548|gb|PP763930.1|,PP763930,"Sus scrofa isolate Ghoongroo1 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1086928133|gb|KX147101.1|,KX147101,"Sus scrofa breed Black Muong Lay pig mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671575|gb|MG250516.1|,MG250516,"Sus scrofa isolate BMX0012 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|145315498|gb|EF545572.1|,EF545572,"Sus scrofa isolate wb11342 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671967|gb|MG250544.1|,MG250544,"Sus scrofa isolate LUC201 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|762006638|gb|KP001505.1|,KP001505,"Panthera leo isolate 96_Zambia mitochondrion, complete genome",9689,Panthera leo,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|209166100|gb|FJ236991.1|,FJ236991,"Sus scrofa breed Iberian haplotype H2 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|33320795|gb|AF486863.1|,AF486863,"Sus scrofa breed Chinese Jinhua mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184803994|gb|KX982639.1|,KX982639,"Sus scrofa isolate Vietnam_VNF50 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|762006610|gb|KP001503.1|,KP001503,"Panthera leo isolate 95_Zambia mitochondrion, complete genome",9689,Panthera leo,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|808177047|gb|KP765602.1|,KP765602,"Sus scrofa breed Berkshire mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|762006540|gb|KP001498.1|,KP001498,"Panthera leo isolate 89_Kenya mitochondrion, complete genome",9689,Panthera leo,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|671184709|gb|KJ737420.1|,KJ737420,"Sus scrofa breed Huo shou black mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910520|gb|PP763928.1|,PP763928,"Sus scrofa isolate Doom5 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184804078|gb|KX982645.1|,KX982645,"Sus scrofa isolate Vietnam_MCA5 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|6601170|gb|AF099238.1|AF099238,AF099238,"Liolaemus petrophilus NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial genes for mitochondrial products",109431,Liolaemus petrophilus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|290790422|gb|GQ502778.1|,GQ502778,"Liolaemus incaicus NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial",703236,Liolaemus incaicus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2563111928|gb|OR268693.1|,OR268693,"Sus scrofa breed Tunchang mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314672247|gb|MG250564.1|,MG250564,"Sus scrofa isolate WZS973 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717583|gb|OL547447.1|,OL547447,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|666876027|gb|KJ866876.1|,KJ866876,"Panthera pardus japonensis mitochondrion, complete genome",348288,Panthera pardus japonensis,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|983635831|gb|KT194219.1|,KT194219,"Sus scrofa breed Wujin mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910730|gb|PP763943.1|,PP763943,"Sus scrofa isolate NiangMegha3 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671841|gb|MG250535.1|,MG250535,"Sus scrofa isolate F15F mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|657306172|gb|KJ452314.1|,KJ452314,"Liolaemus schroederi voucher SSUC Re 539 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial",167118,Liolaemus schroederi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1751377095|gb|MK344650.1|,MK344650,"Sus scrofa isolate Europe haplotype 1 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|762006582|gb|KP001501.1|,KP001501,"Panthera leo isolate 174_India mitochondrion, complete genome",9689,Panthera leo,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|586829562|gb|KF767443.1|,KF767443,"Sus scrofa breed Wuzhishan mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978950|gb|MW823181.1|,MW823181,"Pedioplanis branchi voucher ZMB:89321 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",2848679,Pedioplanis branchi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|238625882|gb|GQ220329.1|,GQ220329,"Sus scrofa breed Dahe mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1143566548|gb|KY432578.1|,KY432578,"Sus scrofa breed Muong Khuong Pig mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|808177061|gb|KP765603.1|,KP765603,"Sus scrofa breed Chenghua pig mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2037092833|gb|MK746089.1|,MK746089,"Sus scrofa isolate Huainan4 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|762006498|gb|KP001495.1|,KP001495,"Panthera leo isolate 60_Ethiopia mitochondrion, complete genome",9689,Panthera leo,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1215003146|gb|KY800118.1|,KY800118,"Sus scrofa breed Ha Lang pig mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1493266945|gb|MG792277.1|,MG792277,Panthera leo isolate CongoLion mitochondrion,9689,Panthera leo,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|145315442|gb|EF545568.1|,EF545568,"Sus scrofa isolate wb11351 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|187250348|ref|NC_010641.1|,NC_010641,"Panthera pardus mitochondrion, complete genome",9691,Panthera pardus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|698854369|gb|KM200762.1|,KM200762,"Sus scrofa breed Dahuabai mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|145315540|gb|EF545575.1|,EF545575,"Sus scrofa isolate shg184 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184804260|gb|KX982658.1|,KX982658,"Sus scrofa isolate Vietnam_BA30 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184804022|gb|KX982641.1|,KX982641,"Sus scrofa isolate Vietnam_VNM03 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910492|gb|PP763926.1|,PP763926,"Sus scrofa isolate Doom3 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1516009683|gb|MG452281.1|,MG452281,"Cryptoprocta ferox voucher AMNHAMCC118665 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial",94188,Cryptoprocta ferox,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853856|gb|OK513005.1|,OK513005,"Panthera spelaea voucher IPF DYa2002 mitochondrion, complete genome",2770979,Panthera spelaea,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1464425918|gb|MH588622.1|,MH588622,"Panthera pardus voucher ZMUC775 mitochondrion, partial genome",9691,Panthera pardus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184803868|gb|KX982630.1|,KX982630,"Sus scrofa isolate Russia_W2 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|45826211|gb|AY574048.1|,AY574048,"Sus scrofa breed Large White mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1777435031|gb|MK248681.1|,MK248681,"Sus scrofa breed Nicobari pig mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165718060|gb|OL547481.1|,OL547481,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910674|gb|PP763939.1|,PP763939,"Sus scrofa isolate ManipuriBlack4 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910646|gb|PP763937.1|,PP763937,"Sus scrofa isolate ManipuriBlack2 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1086928119|gb|KX147100.1|,KX147100,"Sus scrofa breed Mong Cai pig mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2253741280|gb|OM162160.1|,OM162160,"Sus scrofa cristatus mitochondrion, complete genome",309913,Sus scrofa cristatus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853772|gb|OK512999.1|,OK512999,"Panthera spelaea voucher PIN 3020-073 mitochondrion, complete genome",2770979,Panthera spelaea,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978946|gb|MW823179.1|,MW823179,"Pedioplanis branchi voucher CAS:214787 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",2848679,Pedioplanis branchi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671561|gb|MG250515.1|,MG250515,"Sus scrofa isolate BMX0005 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727911080|gb|PP763968.1|,PP763968,"Sus scrofa isolate Banda13 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|33320837|gb|AF486866.1|,AF486866,"Sus scrofa breed Landerace mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|673922049|gb|KM101042.1|,KM101042,"Sus scrofa breed Guanling mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|162423267|gb|EU333163.1|,EU333163,"Sus scrofa breed Chinese northeast wildboar mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|83779145|gb|DQ334861.1|,DQ334861,"Sus scrofa isolate JNP10 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2037092931|gb|MK746096.1|,MK746096,"Sus scrofa isolate Queshan63 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853688|gb|OK512993.1|,OK512993,"Panthera spelaea voucher FAM 69167 mitochondrion, complete genome",2770979,Panthera spelaea,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727911108|gb|PP763970.1|,PP763970,"Sus scrofa isolate Banda15 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|671184751|gb|KJ737423.1|,KJ737423,"Sus scrofa breed Lu chuan mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|698173772|gb|KM094194.1|,KM094194,"Sus scrofa breed Sandu black mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|557880992|gb|KF660222.1|,KF660222,"Sus scrofa scrofa breed Qianshao Spotted pig mitochondrion, complete genome",415978,Sus scrofa scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132854024|gb|OK513017.1|,OK513017,"Panthera spelaea voucher UB J.S.951 mitochondrion, complete genome",2770979,Panthera spelaea,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|238800171|gb|GQ200595.1|,GQ200595,"Charina trivirgata mitochondrion, partial genome",51879,Lichanura trivirgata,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|145315750|gb|EF545590.1|,EF545590,"Sus scrofa isolate Bihu208 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2037092917|gb|MK746095.1|,MK746095,"Sus scrofa isolate Nanyang56 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1071036300|gb|KX620009.1|,KX620009,"Sus scrofa isolate Enshi10 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|371914203|dbj|AK389718.1|,AK389718,"Sus scrofa mRNA, clone: AMP010050C03, expressed in alveolar macrophage",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910842|gb|PP763951.1|,PP763951,"Sus scrofa isolate Ankamali1 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671603|gb|MG250518.1|,MG250518,"Sus scrofa isolate BMX0014 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184804218|gb|KX982655.1|,KX982655,"Sus scrofa isolate Vietnam_BA12 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1049741382|gb|KU556691.1|,KU556691,"Sus scrofa breed Mong Cai mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2107798264|gb|MZ846190.1|,MZ846190,"Sus scrofa domesticus breed Doom mitochondrion, complete genome",9825,Sus scrofa domesticus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1807606826|gb|MH603005.1|,MH603005,"Sus scrofa breed Fengjing mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|669176294|gb|KJ746665.1|,KJ746665,"Sus scrofa domesticus breed Ya cha mitochondrion, complete genome",9825,Sus scrofa domesticus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|808177075|gb|KP765604.1|,KP765604,"Sus scrofa breed Wuhuang pig mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2147638638|gb|OK329967.1|,OK329967,"Sus scrofa mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978956|gb|MW823184.1|,MW823184,"Pedioplanis branchi voucher ZMB:89311 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",2848679,Pedioplanis branchi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184804274|gb|KX982659.1|,KX982659,"Sus scrofa isolate Vietnam_BV02 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978878|gb|MW823145.1|,MW823145,"Pedioplanis gaerdesi voucher AMB8832 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314672219|gb|MG250562.1|,MG250562,"Sus scrofa isolate WZS947 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2647227870|emb|OY997226.1|,OY997226,"Sus scrofa genome assembly, organelle: mitochondrion",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910394|gb|PP763919.1|,PP763919,"Sus scrofa isolate AgondaGoan2 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978936|gb|MW823174.1|,MW823174,"Pedioplanis branchi voucher ZMB:89302 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",2848679,Pedioplanis branchi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727911248|gb|PP763980.1|,PP763980,"Sus scrofa isolate Purnea5 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314672289|gb|MG250567.1|,MG250567,"Sus scrofa isolate YDH32 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|460418110|gb|KC493611.1|,KC493611,"Sus scrofa isolate T5 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|145315526|gb|EF545574.1|,EF545574,"Sus scrofa isolate saba1 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717695|gb|OL547455.1|,OL547455,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|145315652|gb|EF545583.1|,EF545583,"Sus scrofa isolate bm2 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|6601106|gb|AF099222.1|AF099222,AF099222,"Liolaemus gracilis NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial genes for mitochondrial products",109414,Liolaemus gracilis,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|757174577|gb|KP294522.1|,KP294522,"Sus scrofa breed Dabieshan black pig mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314672051|gb|MG250550.1|,MG250550,"Sus scrofa isolate MB16F mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978960|gb|MW823186.1|,MW823186,"Pedioplanis branchi voucher ZMB:89312 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",2848679,Pedioplanis branchi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|118344876|gb|DQ871072.1|,DQ871072,"Pedioplanis inornata haplotype ABE428 NADH dehydrogenase subunit 2 (NADH2) gene, partial cds; mitochondrial",219177,Pedioplanis inornata,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|251829649|gb|GQ351599.1|,GQ351599,"Sus scrofa isolate KNP1501 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1464425932|gb|MH588623.1|,MH588623,"Panthera pardus voucher ZMUC1967 mitochondrion, partial genome",9691,Panthera pardus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727911178|gb|PP763975.1|,PP763975,"Sus scrofa isolate Gurrah2 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|33340076|gb|AF305790.1|,AF305790,"Liolaemus puna NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial",299232,Liolaemus puna,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727911220|gb|PP763978.1|,PP763978,"Sus scrofa isolate Purnea3 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|145315638|gb|EF545582.1|,EF545582,"Sus scrofa isolate qp4014 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727911290|gb|PP763983.1|,PP763983,"Sus scrofa isolate TenyiVo3 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|698174237|gb|KM433673.1|,KM433673,"Sus scrofa breed Longlin mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2563111914|gb|OR268692.1|,OR268692,"Sus scrofa breed Wuzhishan mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910968|gb|PP763960.1|,PP763960,"Sus scrofa isolate Banda5 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|571031644|gb|KF752550.1|,KF752550,"Sus scrofa breed Yorkshine mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184804092|gb|KX982646.1|,KX982646,"Sus scrofa isolate Vietnam_MCA8 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|37576249|gb|AY184398.1|,AY184398,"Pedioplanis gaerdesi NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial gene for mitochondrial product",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910618|gb|PP763935.1|,PP763935,"Sus scrofa isolate Ghoongroo6 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|209166226|gb|FJ237000.1|,FJ237000,"Sus scrofa breed European wild boar haplotype WB3 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727911234|gb|PP763979.1|,PP763979,"Sus scrofa isolate Purnea4 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|671184723|gb|KJ737421.1|,KJ737421,"Sus scrofa breed Lai wu mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|33320809|gb|AF486864.1|,AF486864,"Sus scrofa breed Chinese Min mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717667|gb|OL547453.1|,OL547453,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|145315722|gb|EF545588.1|,EF545588,"Sus scrofa isolate huzu4 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717653|gb|OL547452.1|,OL547452,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717976|gb|OL547475.1|,OL547475,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184804120|gb|KX982648.1|,KX982648,"Sus scrofa isolate Vietnam_MCB11 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|33320851|gb|AF486867.1|,AF486867,"Sus scrofa breed Chinese Wuzhishan mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|33320949|gb|AF486874.1|,AF486874,"Sus scrofa breed Large White mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978888|gb|MW823150.1|,MW823150,"Pedioplanis gaerdesi voucher MCZR184167 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314672261|gb|MG250565.1|,MG250565,"Sus scrofa isolate YDH14 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978920|gb|MW823166.1|,MW823166,"Pedioplanis gaerdesi voucher SK442.2014 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671645|gb|MG250521.1|,MG250521,"Sus scrofa isolate dahuabai23 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978874|gb|MW823143.1|,MW823143,"Pedioplanis gaerdesi voucher MCZR185883 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853758|gb|OK512998.1|,OK512998,"Panthera spelaea voucher IEM 153-003 mitochondrion, complete genome",2770979,Panthera spelaea,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671897|gb|MG250539.1|,MG250539,"Sus scrofa isolate lantang25 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|671184667|gb|KJ737417.1|,KJ737417,"Sus scrofa breed Ding Yuan mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717793|gb|OL547462.1|,OL547462,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853618|gb|OK512988.1|,OK512988,"Panthera leo atrox from USA mitochondrion, partial genome",402889,Panthera leo atrox,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978884|gb|MW823148.1|,MW823148,"Pedioplanis gaerdesi voucher MCZR185885 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|6601114|gb|AF099224.1|AF099224,AF099224,"Liolaemus chiliensis NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial genes for mitochondrial products",109403,Liolaemus chiliensis,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1493266931|gb|MG792276.1|,MG792276,Panthera leo isolate BatekeLion_2 mitochondrion,9689,Panthera leo,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2250084150|gb|OM363676.1|,OM363676,"Sus scrofa domesticus mitochondrion, complete genome",9825,Sus scrofa domesticus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1777434411|gb|MK251046.1|,MK251046,"Sus scrofa mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314672191|gb|MG250560.1|,MG250560,"Sus scrofa isolate WZS809 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978872|gb|MW823142.1|,MW823142,"Pedioplanis gaerdesi voucher MCZR185888 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|685497081|ref|NC_024860.1|,NC_024860,"Sus celebensis mitochondrion, complete genome",273789,Sus celebensis,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314672275|gb|MG250566.1|,MG250566,"Sus scrofa isolate YDH17 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2307852130|gb|OK326862.1|,OK326862,"Sus scrofa isolate LJ1 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|288780667|dbj|AK343653.1|,AK343653,"Sus scrofa mRNA, clone:AMP010008F11, expressed in alveolar macrophages",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910660|gb|PP763938.1|,PP763938,"Sus scrofa isolate ManipuriBlack3 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2561340430|gb|OR255999.1|,OR255999,"Sus scrofa mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314672037|gb|MG250549.1|,MG250549,"Sus scrofa isolate LUC208 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|762006666|gb|KP001507.1|,KP001507,"Panthera pardus isolate 179_Leopard mitochondrion, complete genome",9691,Panthera pardus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|157056521|gb|EU090702.1|,EU090702,"Sus scrofa isolate S1 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671813|gb|MG250533.1|,MG250533,"Sus scrofa isolate GZ08F mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2633559387|gb|OR817739.1|,OR817739,"Panthera pardus isolate Mal mitochondrion, complete genome",9691,Panthera pardus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727911360|gb|PP763988.1|,PP763988,"Sus scrofa isolate Wakchambil2 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910912|gb|PP763956.1|,PP763956,"Sus scrofa isolate Banda1 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910800|gb|PP763948.1|,PP763948,"Sus scrofa isolate Mali3 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165718018|gb|OL547478.1|,OL547478,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132854038|gb|OK513018.1|,OK513018,"Panthera leo atrox from USA mitochondrion, partial genome",402889,Panthera leo atrox,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|145315428|gb|EF545567.1|,EF545567,"Sus scrofa isolate S722 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|11055657|gb|AF304202.1|AF304202,AF304202,"Sus scrofa breed Landrace mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|306485876|gb|DQ518915.2|,DQ518915,"Sus scrofa breed Lanyu mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717597|gb|OL547448.1|,OL547448,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|671184695|gb|KJ737419.1|,KJ737419,"Sus scrofa breed Huai mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717962|gb|OL547474.1|,OL547474,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2626697046|gb|OR777682.1|,OR777682,"Panthera pardus mitochondrion, complete genome",9691,Panthera pardus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717541|gb|OL547444.1|,OL547444,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1566349414|gb|MK043027.1|,MK043027,"Panthera pardus voucher cgrb15208 mitochondrion, complete genome",9691,Panthera pardus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1062594220|gb|KX655614.1|,KX655614,"Panthera pardus orientalis mitochondrion, complete genome",9692,Panthera pardus orientalis,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1929547443|gb|MT653633.1|,MT653633,"Sus scrofa mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853842|gb|OK513004.1|,OK513004,"Panthera spelaea from Russia mitochondrion, partial genome",2770979,Panthera spelaea,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|37962869|gb|AY337045.1|,AY337045,"Sus scrofa breed Duroc mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1516009687|gb|MG452283.1|,MG452283,"Cryptoprocta ferox voucher MNHNC-13/ISEMT832 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial",94188,Cryptoprocta ferox,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727911346|gb|PP763987.1|,PP763987,"Sus scrofa isolate Wakchambil1 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|748762956|gb|KP126954.1|,KP126954,"Sus scrofa breed Luchuan pig mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|697738703|gb|KM250424.1|,KM250424,"Sus scrofa breed Congjiang miniature mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184804036|gb|KX982642.1|,KX982642,"Sus scrofa isolate Vietnam_VNM07 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2566847231|gb|OR397961.1|,OR397961,"Sus scrofa breed Lingao mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|5835862|ref|NC_000845.1|,NC_000845,"Sus scrofa mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978876|gb|MW823144.1|,MW823144,"Pedioplanis gaerdesi voucher CAS:214599 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|762006470|gb|KP001493.1|,KP001493,"Panthera leo isolate 31_Cameroon mitochondrion, complete genome",9689,Panthera leo,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853744|gb|OK512997.1|,OK512997,"Panthera spelaea from Poland mitochondrion, partial genome",2770979,Panthera spelaea,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910954|gb|PP763959.1|,PP763959,"Sus scrofa isolate Banda4 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|757173677|gb|KP301137.1|,KP301137,"Sus scrofa scrofa mitochondrion, complete genome",415978,Sus scrofa scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671673|gb|MG250523.1|,MG250523,"Sus scrofa isolate DB24 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717905|gb|OL547470.1|,OL547470,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910828|gb|PP763950.1|,PP763950,"Sus scrofa isolate Mali5 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910856|gb|PP763952.1|,PP763952,"Sus scrofa isolate Ankamali2 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2248387900|gb|ON060839.1|,ON060839,"Sus scrofa mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2044000873|gb|MK858174.1|,MK858174,"Sus scrofa isolate Nanyang41 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|209166156|gb|FJ236995.1|,FJ236995,"Sus scrofa breed Iberian haplotype H6 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671939|gb|MG250542.1|,MG250542,"Sus scrofa isolate LL7105 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853982|gb|OK513014.1|,OK513014,"Panthera spelaea voucher IK-01-409 mitochondrion, complete genome",2770979,Panthera spelaea,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1751377137|gb|MK344653.1|,MK344653,"Sus scrofa isolate Europe haplotype 4 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|33320753|gb|AF486860.1|,AF486860,"Sus scrofa breed Chinese Rongchang mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2152011340|gb|MK688993.1|,MK688993,"Sus scrofa breed Bama mininature pig mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910408|gb|PP763920.1|,PP763920,"Sus scrofa isolate AgondaGoan3 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671771|gb|MG250530.1|,MG250530,"Sus scrofa isolate GF99 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978908|gb|MW823160.1|,MW823160,"Pedioplanis gaerdesi voucher ZMB:89332 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1035662687|gb|KX258452.1|,KX258452,"Panthera leo spelaea voucher F-2678/70 mitochondrion, complete genome",2770979,Panthera spelaea,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|550600859|gb|KF472179.1|,KF472179,"Sus scrofa breed Daweizi mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910898|gb|PP763955.1|,PP763955,"Sus scrofa isolate Ankamali5 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1071036286|gb|KX620008.1|,KX620008,"Sus scrofa isolate Enshi7 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2044000831|gb|MK858171.1|,MK858171,"Sus scrofa isolate Yuxi22 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853800|gb|OK513001.1|,OK513001,"Panthera spelaea voucher PIN 3752-024A mitochondrion, complete genome",2770979,Panthera spelaea,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853828|gb|OK513003.1|,OK513003,"Panthera spelaea voucher PIN 3916-162 mitochondrion, complete genome",2770979,Panthera spelaea,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|668349796|gb|KJ720205.1|,KJ720205,"Sus scrofa breed Laiwu Black pig mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053979162|gb|MW823287.1|,MW823287,"Pedioplanis branchi voucher ZMB:89306 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",2848679,Pedioplanis branchi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671855|gb|MG250536.1|,MG250536,"Sus scrofa isolate H19M mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727911122|gb|PP763971.1|,PP763971,"Sus scrofa isolate Banda16 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671911|gb|MG250540.1|,MG250540,"Sus scrofa isolate lantang26 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727911262|gb|PP763981.1|,PP763981,"Sus scrofa isolate TenyiVo1 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|460418054|gb|KC493607.1|,KC493607,"Sus scrofa isolate T1 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|6601154|gb|AF099234.1|AF099234,AF099234,"Liolaemus capillitas NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial genes for mitochondrial products",109401,Liolaemus capillitas,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|118344884|gb|DQ871076.1|,DQ871076,"Pedioplanis gaerdesi haplotype ABE448 NADH dehydrogenase subunit 2 (NADH2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717919|gb|OL547471.1|,OL547471,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|145315610|gb|EF545580.1|,EF545580,"Sus scrofa isolate wbdb6 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978952|gb|MW823182.1|,MW823182,"Pedioplanis branchi voucher ZMB:89313 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",2848679,Pedioplanis branchi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1464315092|ref|NC_039090.1|,NC_039090,"Sus scrofa cristatus isolate ABT/SWFH/1 mitochondrion, complete genome",309913,Sus scrofa cristatus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727911136|gb|PP763972.1|,PP763972,"Sus scrofa isolate Banda17 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853576|gb|OK512985.1|,OK512985,"Panthera spelaea from Canada mitochondrion, partial genome",2770979,Panthera spelaea,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853884|gb|OK513007.1|,OK513007,"Panthera spelaea from Germany mitochondrion, partial genome",2770979,Panthera spelaea,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|460418124|gb|KC493612.1|,KC493612,"Sus scrofa isolate T6 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2250084220|gb|OM634652.1|,OM634652,"Sus scrofa domesticus breed Ghungroo mitochondrion, complete genome",9825,Sus scrofa domesticus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1464425778|gb|MH588612.1|,MH588612,"Panthera pardus voucher N43947 mitochondrion, partial genome",9691,Panthera pardus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|3005406057|dbj|LC880088.1|,LC880088,"Sus scrofa 20230224_TCRDL_Sscr mitochondrial DNA, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2250084164|gb|OM386979.1|,OM386979,"Sus scrofa domesticus breed Tenyi Vo mitochondrion, complete genome",9825,Sus scrofa domesticus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|55139591|gb|AY634385.1|,AY634385,"Neofelis nebulosa NADH dehydrogenase subunit 2 (NADH2) gene, partial cds; mitochondrial",61452,Neofelis nebulosa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978958|gb|MW823185.1|,MW823185,"Pedioplanis branchi voucher CAS:214792 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",2848679,Pedioplanis branchi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|145315790|gb|EF545593.1|,EF545593,"Sus scrofa isolate X269 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2023428938|gb|CP071572.1|,CP071572,"Sus scrofa scrofa breed NS mitochondrion, complete genome",415978,Sus scrofa scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|974993686|gb|KT261429.1|,KT261429,"Sus scrofa mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|673922063|gb|KM101043.1|,KM101043,"Sus scrofa breed Lantang mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717527|gb|OL547443.1|,OL547443,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853996|gb|OK513015.1|,OK513015,"Panthera leo atrox from USA mitochondrion, partial genome",402889,Panthera leo atrox,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910464|gb|PP763924.1|,PP763924,"Sus scrofa isolate Doom1 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2037092903|gb|MK746094.1|,MK746094,"Sus scrofa isolate Nanyang54 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053979158|gb|MW823285.1|,MW823285,"Pedioplanis gaerdesi voucher MCZR185875 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|482514544|gb|KC834784.1|,KC834784,"Panthera leo persica mitochondrion, complete genome",83386,Panthera leo persica,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|33320921|gb|AF486872.1|,AF486872,"Sus scrofa breed Chinese Jiangquhai mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|15812138|gb|AF055964.2|,AF055964,"Anolis loysiana NADH dehydrogenase subunit II (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome oxidase subunit I gene, partial cds; mitochondrial genes for mitochondrial products",75261,Anolis loysiana,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|76262521|gb|DQ207755.1|,DQ207755,"Sus scrofa isolate KS31 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|983635845|gb|KT194220.1|,KT194220,"Sus scrofa breed Saba mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1071036314|gb|KX620010.1|,KX620010,"Sus scrofa isolate Enshi20 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|76262549|gb|DQ207753.1|,DQ207753,"Sus scrofa isolate KS17 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|443610992|gb|KC250273.1|,KC250273,"Sus scrofa breed Xiang mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1215003257|gb|KY964306.1|,KY964306,"Sus scrofa breed Huong pig mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978924|gb|MW823168.1|,MW823168,"Pedioplanis gaerdesi voucher SK440.2014 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|983635817|gb|KT194218.1|,KT194218,"Sus scrofa breed Guangming small-ear mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|814936116|gb|KP202265.1|,KP202265,"Panthera pardus isolate PPA mitochondrion, complete genome",9691,Panthera pardus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|347448639|gb|JN601068.1|,JN601068,"Sus scrofa isolate Mangalitsa swallow belly breed 1 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|577029783|gb|KF907306.1|,KF907306,"Panthera leo leo mitochondrion, complete genome",1446311,Panthera leo leo,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|586946472|gb|KF971862.1|,KF971862,"Sus scrofa domesticus breed Min mitochondrion, complete genome",9825,Sus scrofa domesticus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727911192|gb|PP763976.1|,PP763976,"Sus scrofa isolate Purnea1 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910632|gb|PP763936.1|,PP763936,"Sus scrofa isolate ManipuriBlack1 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165718004|gb|OL547477.1|,OL547477,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184803938|gb|KX982635.1|,KX982635,"Sus scrofa isolate Russia_T3 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|6601122|gb|AF099226.1|AF099226,AF099226,"Liolaemus pictus NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial genes for mitochondrial products",82663,Liolaemus pictus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853954|gb|OK513012.1|,OK513012,"Panthera leo atrox voucher EDM P89.13.546 mitochondrion, complete genome",402889,Panthera leo atrox,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978916|gb|MW823164.1|,MW823164,"Pedioplanis gaerdesi voucher ZMB:89330 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|145315736|gb|EF545589.1|,EF545589,"Sus scrofa isolate yimh42 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184804162|gb|KX982651.1|,KX982651,"Sus scrofa isolate Vietnam_MCC09 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2102343205|gb|MW534270.1|,MW534270,"Sus scrofa domesticus breed Gannan wild Tibetan pig mitochondrion, complete genome",9825,Sus scrofa domesticus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184804190|gb|KX982653.1|,KX982653,"Sus scrofa isolate Vietnam_BA7 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717513|gb|OL547442.1|,OL547442,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|459353560|gb|KC469586.1|,KC469586,"Sus scrofa domesticus breed Chinese Jinhua pig mitochondrion, complete genome",9825,Sus scrofa domesticus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671631|gb|MG250520.1|,MG250520,"Sus scrofa isolate dahuabai09 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165718032|gb|OL547479.1|,OL547479,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|33320683|gb|AF486855.1|,AF486855,"Sus scrofa breed Chinese Zhong Meishan mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|982189117|gb|KT279758.1|,KT279758,"Sus scrofa haplotype A mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671743|gb|MG250528.1|,MG250528,"Sus scrofa isolate GDXE32 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671883|gb|MG250538.1|,MG250538,"Sus scrofa isolate lantang24 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2250084178|gb|OM453834.1|,OM453834,"Sus scrofa domesticus breed Zovawk mitochondrion, complete genome",9825,Sus scrofa domesticus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2512647706|gb|OQ689020.1|,OQ689020,"Sus scrofa breed mashen mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|3005406155|dbj|LC880095.1|,LC880095,"Sus scrofa 20230310_TCRDL_Sscr mitochondrial DNA, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727911010|gb|PP763963.1|,PP763963,"Sus scrofa isolate Banda8 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717849|gb|OL547466.1|,OL547466,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978934|gb|MW823173.1|,MW823173,"Pedioplanis branchi voucher ZMB:89304 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",2848679,Pedioplanis branchi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727911206|gb|PP763977.1|,PP763977,"Sus scrofa isolate Purnea2 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910814|gb|PP763949.1|,PP763949,"Sus scrofa isolate Mali4 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1561759576|gb|MG837549.1|,MG837549,"Sus scrofa isolate TP mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978912|gb|MW823162.1|,MW823162,"Pedioplanis gaerdesi voucher AMB5940 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727911024|gb|PP763964.1|,PP763964,"Sus scrofa isolate Banda9 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910786|gb|PP763947.1|,PP763947,"Sus scrofa isolate Mali2 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1751377081|gb|MK290991.1|,MK290991,"Sus scrofa isolate Europe mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671687|gb|MG250524.1|,MG250524,"Sus scrofa isolate DB5005 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1899178512|gb|MN624263.1|,MN624263,"Sus scrofa mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853604|gb|OK512987.1|,OK512987,"Panthera spelaea voucher UAF V-54-30 mitochondrion, complete genome",2770979,Panthera spelaea,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184803952|gb|KX982636.1|,KX982636,"Sus scrofa isolate Vietnam_VNF06 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|312233363|ref|NC_014692.1|,NC_014692,"Sus scrofa taiwanensis mitochondrion, complete genome",310261,Sus scrofa taivanus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|145315708|gb|EF545587.1|,EF545587,"Sus scrofa isolate huzu2 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|209166212|gb|FJ236999.1|,FJ236999,"Sus scrofa breed European wild boar haplotype WB2 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717948|gb|OL547473.1|,OL547473,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671547|gb|MG250514.1|,MG250514,"Sus scrofa isolate BMX0001 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2152015657|gb|OK539643.1|,OK539643,"Babyrousa babyrussa mitochondrion, complete genome",41806,Babyrousa babyrussa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2225953440|gb|MT916290.1|,MT916290,"Panthera leo leo mitochondrion, complete genome",1446311,Panthera leo leo,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910576|gb|PP763932.1|,PP763932,"Sus scrofa isolate Ghoongroo3 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2120245608|gb|MT483613.1|,MT483613,"Sus scrofa isolate DM1122 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671925|gb|MG250541.1|,MG250541,"Sus scrofa isolate LL0012 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671995|gb|MG250546.1|,MG250546,"Sus scrofa isolate LUC202 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2561340873|gb|OR260477.1|,OR260477,"Sus scrofa mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2037092875|gb|MK746092.1|,MK746092,"Sus scrofa isolate Yuxi24 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|699046396|gb|KM275217.1|,KM275217,"Sus scrofa breed Luchuan mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|118344874|gb|DQ871071.1|,DQ871071,"Pedioplanis inornata haplotype ABE458 NADH dehydrogenase subunit 2 (NADH2) gene, partial cds; mitochondrial",219177,Pedioplanis inornata,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314672093|gb|MG250553.1|,MG250553,"Sus scrofa isolate PTHF7 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2076239742|gb|MT501674.1|,MT501674,"Sus scrofa breed Ghungroo Pig mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|443611006|gb|KC250274.1|,KC250274,"Sus scrofa breed Lantang mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727911304|gb|PP763984.1|,PP763984,"Sus scrofa isolate TenyiVo4 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|762006596|gb|KP001502.1|,KP001502,"Panthera leo isolate 21_Cameroon mitochondrion, complete genome",9689,Panthera leo,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314672009|gb|MG250547.1|,MG250547,"Sus scrofa isolate LUC206 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727911150|gb|PP763973.1|,PP763973,"Sus scrofa isolate Banda18 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|145315512|gb|EF545573.1|,EF545573,"Sus scrofa isolate wb11365 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727911276|gb|PP763982.1|,PP763982,"Sus scrofa isolate TenyiVo2 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1071036328|gb|KX620011.1|,KX620011,"Sus scrofa isolate Enshi144 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978962|gb|MW823187.1|,MW823187,"Pedioplanis branchi voucher CAS:214791 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",2848679,Pedioplanis branchi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|460418096|gb|KC493610.1|,KC493610,"Sus scrofa isolate T4 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|342316091|gb|DQ534707.2|,DQ534707,"Sus scrofa breed Taoyuan mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1751377109|gb|MK344651.1|,MK344651,"Sus scrofa isolate Europe haplotype 2 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|576597389|gb|KF888634.1|,KF888634,"Sus scrofa mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2529104281|gb|ON652848.1|,ON652848,"Panthera pardus kotiya voucher DWC PPK-R mitochondrion, complete genome",2816903,Panthera pardus kotiya,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978890|gb|MW823151.1|,MW823151,"Pedioplanis gaerdesi voucher AMB8831 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910940|gb|PP763958.1|,PP763958,"Sus scrofa isolate Banda3 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|465481196|gb|KC505408.1|,KC505408,"Sus scrofa breed Wujin pig mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671715|gb|MG250526.1|,MG250526,"Sus scrofa isolate GDXE12 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|6601118|gb|AF099225.1|,AF099225,"Liolaemus cf. pictus NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial",521370,Liolaemus cf. pictus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|982189145|gb|KT279760.1|,KT279760,"Sus scrofa haplotype D mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|689197688|gb|KM073256.1|,KM073256,"Sus scrofa breed Tibetan mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1493266917|gb|MG792275.1|,MG792275,Panthera leo isolate BatekeLion_1 mitochondrion,9689,Panthera leo,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314672023|gb|MG250548.1|,MG250548,"Sus scrofa isolate LUC207 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671785|gb|MG250531.1|,MG250531,"Sus scrofa isolate GGZM02 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|11055629|gb|AF304200.1|AF304200,AF304200,"Sus scrofa breed Chinese Meishan mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|762006624|gb|KP001504.1|,KP001504,"Panthera leo isolate 131_Namibia mitochondrion, complete genome",9689,Panthera leo,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978942|gb|MW823177.1|,MW823177,"Pedioplanis branchi voucher CAS:206937 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",2848679,Pedioplanis branchi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|209166240|gb|FJ237001.1|,FJ237001,"Sus scrofa breed European wild boar haplotype WB4 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853926|gb|OK513010.1|,OK513010,"Panthera leo atrox from Canada mitochondrion, partial genome",402889,Panthera leo atrox,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853786|gb|OK513000.1|,OK513000,"Panthera spelaea voucher PIN 3020-350 mitochondrion, complete genome",2770979,Panthera spelaea,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727911066|gb|PP763967.1|,PP763967,"Sus scrofa isolate Banda12 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2987592049|gb|PV693689.1|,PV693689,"Sus scrofa isolate VN mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132854066|gb|OK513020.1|,OK513020,"Panthera leo atrox from USA mitochondrion, partial genome",402889,Panthera leo atrox,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|762006484|gb|KP001494.1|,KP001494,"Panthera leo isolate 47_DRC mitochondrion, complete genome",9689,Panthera leo,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671953|gb|MG250543.1|,MG250543,"Sus scrofa isolate LL7839 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|159162010|gb|EF375877.3|,EF375877,"Sus scrofa breed type I Lanyu mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2633559359|gb|OR817737.1|,OR817737,"Panthera pardus isolate Mid mitochondrion, complete genome",9691,Panthera pardus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|983635803|gb|KT194217.1|,KT194217,"Sus scrofa breed Baoshan mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|460418068|gb|KC493608.1|,KC493608,"Sus scrofa isolate T2 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184804176|gb|KX982652.1|,KX982652,"Sus scrofa isolate Vietnam_MCN16 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|3603132|gb|U82684.1|LTU82684,U82684,"Liolaemus pictus MVZ 162076 NADH dehydrogenase subunit 1 (ND1), partial cds, tRNA-Ile, tRNA-Gln and tRNA-Met, NADH dehydrogenase subunit 2 (ND2), complete cds, tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys and tRNA-Tyr and cytochrome c oxidase subunit I (COI), partial cds, mitochondrial genes encoding mitochondrial products",82663,Liolaemus pictus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1959383937|gb|MW257216.1|,MW257216,"Panthera leo mitochondrion, complete genome",9689,Panthera leo,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|118344886|gb|DQ871077.1|,DQ871077,"Pedioplanis gaerdesi haplotype ABE407 NADH dehydrogenase subunit 2 (NADH2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1245685956|gb|MF183224.1|,MF183224,"Sus scrofa breed Swallow-belly Mangalica mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|727826711|gb|KM998967.1|,KM998967,"Sus scrofa breed Meishan mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910590|gb|PP763933.1|,PP763933,"Sus scrofa isolate Ghoongroo4 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|465481179|gb|KC505407.1|,KC505407,"Sus scrofa breed Penzhou pig mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910982|gb|PP763961.1|,PP763961,"Sus scrofa isolate Banda6 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910380|gb|PP763918.1|,PP763918,"Sus scrofa isolate AgondaGoan1 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184804106|gb|KX982647.1|,KX982647,"Sus scrofa isolate Vietnam_MCA18 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|118344872|gb|DQ871070.1|,DQ871070,"Pedioplanis inornata haplotype AMB6552 NADH dehydrogenase subunit 2 (NADH2) gene, partial cds; mitochondrial",219177,Pedioplanis inornata,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|209166254|gb|FJ237002.1|,FJ237002,"Sus scrofa breed European wild boar haplotype WB5 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|4220565|emb|AJ002189.1|,AJ002189,Sus scrofa complete mitochondrial DNA,9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|762006512|gb|KP001496.1|,KP001496,"Panthera leo isolate 137_Namibia mitochondrion, complete genome",9689,Panthera leo,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|794460847|gb|KP681244.1|,KP681244,"Sus scrofa breed Wenchang mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853940|gb|OK513011.1|,OK513011,"Panthera leo atrox voucher EDM P98.5.404 mitochondrion, complete genome",402889,Panthera leo atrox,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1374427572|gb|MF143597.1|,MF143597,"Sus scrofa breed Kele mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853674|gb|OK512992.1|,OK512992,"Panthera spelaea voucher FAM 30757 mitochondrion, complete genome",2770979,Panthera spelaea,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1337016229|gb|MG009446.1|,MG009446,"Sus scrofa breed Dapulian pig mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978882|gb|MW823147.1|,MW823147,"Pedioplanis gaerdesi voucher MCZR188236 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1059525102|gb|KT376233.1|,KT376233,"Anolis loysiana isolate 10_3 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",75261,Anolis loysiana,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978898|gb|MW823155.1|,MW823155,"Pedioplanis gaerdesi voucher MCZR184294 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910926|gb|PP763957.1|,PP763957,"Sus scrofa isolate Banda2 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1784319997|gb|MN258706.1|,MN258706,"Sus scrofa isolate HEBAO 01 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1059525104|gb|KT376234.1|,KT376234,"Anolis loysiana isolate 10_4 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",75261,Anolis loysiana,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132854010|gb|OK513016.1|,OK513016,"Panthera leo atrox from USA mitochondrion, partial genome",402889,Panthera leo atrox,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910436|gb|PP763922.1|,PP763922,"Sus scrofa isolate AgondaGoan5 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717625|gb|OL547450.1|,OL547450,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|669176308|gb|KJ746666.1|,KJ746666,"Sus scrofa domesticus breed Mangalica mitochondrion, complete genome",9825,Sus scrofa domesticus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2321859529|gb|OM236539.1|,OM236539,"Sus scrofa domesticus mitochondrion, complete genome",9825,Sus scrofa domesticus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2044000845|gb|MK858172.1|,MK858172,"Sus scrofa isolate Yuxi23 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|76262535|gb|DQ207754.1|,DQ207754,"Sus scrofa isolate KS29 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1356588144|gb|MG725631.1|,MG725631,"Sus scrofa cristatus isolate ABT/SWFH/2 mitochondrion, complete genome",309913,Sus scrofa cristatus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|11055643|gb|AF304201.1|AF304201,AF304201,"Sus scrofa breed Italian wild boar mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|756141089|gb|KP257599.1|,KP257599,"Sus scrofa breed Qingyu mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|33320697|gb|AF486856.1|,AF486856,"Sus scrofa breed Chinese Zang mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|33320879|gb|AF486869.1|,AF486869,"Sus scrofa breed Chinese Diannan Short-ear mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|115531609|ref|NC_008450.1|,NC_008450,"Neofelis nebulosa mitochondrion, complete genome",61452,Neofelis nebulosa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853912|gb|OK513009.1|,OK513009,"Panthera leo atrox from Canada mitochondrion, partial genome",402889,Panthera leo atrox,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184804148|gb|KX982650.1|,KX982650,"Sus scrofa isolate Vietnam_MCB40 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|209166114|gb|FJ236992.1|,FJ236992,"Sus scrofa breed Iberian haplotype H3 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1959383825|gb|MW257208.1|,MW257208,"Leopardus pardalis mitochondrion, complete genome",32538,Leopardus pardalis,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|808177089|gb|KP765605.1|,KP765605,"Sus scrofa breed Changbai mountains wild boar mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|145315666|gb|EF545584.1|,EF545584,"Sus scrofa isolate wbvnm7 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717779|gb|OL547461.1|,OL547461,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910450|gb|PP763923.1|,PP763923,"Sus scrofa isolate AgondaGoan6 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184804232|gb|KX982656.1|,KX982656,"Sus scrofa isolate Vietnam_BA19 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184803924|gb|KX982634.1|,KX982634,"Sus scrofa isolate Russia_T2 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|223976078|ref|NC_012095.1|,NC_012095,"Sus scrofa domesticus mitochondrion, complete genome",9825,Sus scrofa domesticus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1356588158|gb|MG725632.1|,MG725632,"Sus scrofa cristatus isolate ABT/SWFH/3 mitochondrion, complete genome",309913,Sus scrofa cristatus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853702|gb|OK512994.1|,OK512994,"Panthera spelaea from USA mitochondrion, partial genome",2770979,Panthera spelaea,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|794460770|gb|KP681242.1|,KP681242,"Sus scrofa breed Lingao mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978972|gb|MW823192.1|,MW823192,"Pedioplanis branchi voucher ZMB:89307 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",2848679,Pedioplanis branchi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314672135|gb|MG250556.1|,MG250556,"Sus scrofa isolate tunchang2007 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|145315680|gb|EF545585.1|,EF545585,"Sus scrofa isolate wb326 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853646|gb|OK512990.1|,OK512990,"Panthera spelaea voucher A-780-1435 mitochondrion, complete genome",2770979,Panthera spelaea,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2428833673|gb|OP930841.1|,OP930841,"Panthera leo isolate JCK10711 mitochondrion, complete genome",9689,Panthera leo,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|814936480|gb|KP202291.1|,KP202291,"Neofelis nebulosa isolate NNE mitochondrion, complete genome",61452,Neofelis nebulosa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2044000817|gb|MK858170.1|,MK858170,"Sus scrofa isolate Yuxi21 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184804204|gb|KX982654.1|,KX982654,"Sus scrofa isolate Vietnam_BA9 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|756141075|gb|KP257598.1|,KP257598,"Sus scrofa breed Liangshan mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2250084192|gb|OM468891.1|,OM468891,"Sus scrofa domesticus breed Lumsniang mitochondrion, complete genome",9825,Sus scrofa domesticus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|156144891|gb|DQ972936.3|,DQ972936,"Sus scrofa breed Type II Lanyu mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671659|gb|MG250522.1|,MG250522,"Sus scrofa isolate dahuabai24 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910534|gb|PP763929.1|,PP763929,"Sus scrofa isolate Doom6 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671869|gb|MG250537.1|,MG250537,"Sus scrofa isolate H31M mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910688|gb|PP763940.1|,PP763940,"Sus scrofa isolate ManipuriBlack5 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314672233|gb|MG250563.1|,MG250563,"Sus scrofa isolate WZS955 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|238625868|gb|GQ220328.1|,GQ220328,"Sus scrofa breed Banna Mini mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|145315764|gb|EF545591.1|,EF545591,"Sus scrofa isolate Bihu199 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|443611020|gb|KC250275.1|,KC250275,"Sus scrofa breed Large White mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|83779131|gb|DQ334860.1|,DQ334860,"Sus scrofa isolate JNP8 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1777435045|gb|MK248682.1|,MK248682,"Sus scrofa breed Andaman Desi pig mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1751377123|gb|MK344652.1|,MK344652,"Sus scrofa isolate Europe haplotype 3 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1464425792|gb|MH588613.1|,MH588613,"Panthera pardus voucher N43951 mitochondrion, partial genome",9691,Panthera pardus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|693583934|gb|KM044239.1|,KM044239,"Sus scrofa breed Rongchang mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978922|gb|MW823167.1|,MW823167,"Pedioplanis gaerdesi voucher MCZR185887 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|948298813|ref|NC_028302.1|,NC_028302,"Panthera leo isolate PLE mitochondrion, complete genome",9689,Panthera leo,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671617|gb|MG250519.1|,MG250519,"Sus scrofa isolate BMX0015 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1245685928|gb|MF183222.1|,MF183222,"Sus scrofa breed Blond Mangalica mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2044000929|gb|MK858178.1|,MK858178,"Sus scrofa isolate Queshan65 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2414081400|gb|ON706057.1|,ON706057,"Sus scrofa domesticus mitochondrion, complete genome",9825,Sus scrofa domesticus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1028336312|gb|KT943507.1|,KT943507,"Sus scrofa breed Hezuo mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|157144245|dbj|AB298688.1|,AB298688,"Sus scrofa mitochondrial DNA, complete genome, breed: Ohmini Pig",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184804064|gb|KX982644.1|,KX982644,"Sus scrofa isolate Vietnam_VNM11 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978914|gb|MW823163.1|,MW823163,"Pedioplanis gaerdesi voucher ZMB:89329 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165718046|gb|OL547480.1|,OL547480,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853562|gb|OK512984.1|,OK512984,"Panthera spelaea from Canada mitochondrion, partial genome",2770979,Panthera spelaea,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853548|gb|OK512983.1|,OK512983,"Panthera leo atrox from Canada mitochondrion, partial genome",402889,Panthera leo atrox,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853534|gb|OK512982.1|,OK512982,"Panthera spelaea from USA mitochondrion, partial genome",2770979,Panthera spelaea,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2044000859|gb|MK858173.1|,MK858173,"Sus scrofa isolate Yuxi35 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853870|gb|OK513006.1|,OK513006,"Panthera spelaea voucher GIN xDYa-84 mitochondrion, complete genome",2770979,Panthera spelaea,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671981|gb|MG250545.1|,MG250545,"Sus scrofa isolate LUC2016 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|557161781|gb|KF601700.1|,KF601700,"Sus scrofa breed Taoyuan Black mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|32482334|gb|AY297529.1|,AY297529,"Liolaemus hernani NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asx, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial",235418,Liolaemus hernani,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|80972992|gb|DQ274110.1|,DQ274110,"Sus scrofa isolate JNPL02 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717807|gb|OL547463.1|,OL547463,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314672079|gb|MG250552.1|,MG250552,"Sus scrofa isolate MB3M mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|145315596|gb|EF545579.1|,EF545579,"Sus scrofa isolate wbjx4b mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|347448667|gb|JN601070.1|,JN601070,"Sus scrofa isolate A breed Meishan mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727911094|gb|PP763969.1|,PP763969,"Sus scrofa isolate Banda14 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|145315624|gb|EF545581.1|,EF545581,"Sus scrofa isolate qp442 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1878852387|gb|MT366635.1|,MT366635,"Cylindrophis maculatus voucher LSUMZ:Herpetology:5798 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, and tRNA-Cys genes, complete sequence; and tRNA-Tyr gene, partial sequence; mitochondrial",302932,Cylindrophis maculatus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314672065|gb|MG250551.1|,MG250551,"Sus scrofa isolate MB18M mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184804288|gb|KX982660.1|,KX982660,"Sus scrofa isolate Vietnam_MBT4 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2044000943|gb|MK858179.1|,MK858179,"Sus scrofa isolate Queshan75 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|550600845|gb|KF472178.1|,KF472178,"Sus scrofa breed Ningxiang mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910870|gb|PP763953.1|,PP763953,"Sus scrofa isolate Ankamali3 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910562|gb|PP763931.1|,PP763931,"Sus scrofa isolate Ghoongroo2 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|6601098|gb|AF099220.1|AF099220,AF099220,"Liolaemus robertmertensi NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial genes for mitochondrial products",109435,Liolaemus robertmertensi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|974993700|gb|KT261430.1|,KT261430,"Sus scrofa mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|697738682|gb|KM259826.1|,KM259826,"Sus scrofa breed Wuyi Black mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1488054228|gb|MG772937.1|,MG772937,Panthera leo mitochondrion,9689,Panthera leo,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|556571580|gb|KF569218.1|,KF569218,"Sus scrofa breed DLY mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1512454443|gb|MG932393.1|,MG932393,"Panthera pardus mitochondrion, complete genome",9691,Panthera pardus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|33320711|gb|AF486857.1|,AF486857,"Sus scrofa breed Chinese Ningxiang mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|391224118|ref|NC_018053.1|,NC_018053,"Panthera leo persica mitochondrion, complete genome",83386,Panthera leo persica,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|145315456|gb|EF545569.1|,EF545569,"Sus scrofa isolate wb11349 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978966|gb|MW823189.1|,MW823189,"Pedioplanis branchi voucher ZMB:89315 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",2848679,Pedioplanis branchi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184803910|gb|KX982633.1|,KX982633,"Sus scrofa isolate Russia_T1 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|465481160|gb|KC505406.1|,KC505406,"Sus scrofa breed Neijiang pig mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1245685970|gb|MF183225.1|,MF183225,"Sus scrofa breed Duroc mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1561759590|gb|MG837550.1|,MG837550,"Sus scrofa isolate RC mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|460418082|gb|KC493609.1|,KC493609,"Sus scrofa isolate T3 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2186271351|gb|OM069301.1|,OM069301,"Sus scrofa domesticus mitochondrion, complete genome",9825,Sus scrofa domesticus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2106369929|gb|MW342493.1|,MW342493,"Sus scrofa breed Dongkhe pig mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2529104295|gb|ON652849.1|,ON652849,"Panthera pardus kotiya voucher DWC PPK-B mitochondrion, complete genome",2816903,Panthera pardus kotiya,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671757|gb|MG250529.1|,MG250529,"Sus scrofa isolate GF38 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978880|gb|MW823146.1|,MW823146,"Pedioplanis gaerdesi voucher MCZR188237 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2566847245|gb|OR397962.1|,OR397962,"Sus scrofa breed Wenchang mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|157056535|gb|EU090703.1|,EU090703,"Sus scrofa isolate KS14 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2018132752|ref|NC_053961.1|,NC_053961,"Cryptoprocta ferox mitochondrion, complete genome",94188,Cryptoprocta ferox,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|465481242|gb|KC505411.1|,KC505411,"Sus scrofa breed wild boar mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|465481213|gb|KC505409.1|,KC505409,"Sus scrofa breed Yanan pig mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2037092889|gb|MK746093.1|,MK746093,"Sus scrofa isolate Yuxi25 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314672107|gb|MG250554.1|,MG250554,"Sus scrofa isolate PTHM16 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853730|gb|OK512996.1|,OK512996,"Panthera spelaea voucher ZIN 29421 (2) mitochondrion, complete genome",2770979,Panthera spelaea,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|794460802|gb|KP681243.1|,KP681243,"Sus scrofa breed Wuzhishan2 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|693583948|gb|KM044240.1|,KM044240,"Sus scrofa breed Diannan mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1013824879|gb|KT372134.1|,KT372134,"Sus scrofa isolate Y1 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853632|gb|OK512989.1|,OK512989,"Panthera spelaea voucher FAM 69016 mitochondrion, complete genome",2770979,Panthera spelaea,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184804008|gb|KX982640.1|,KX982640,"Sus scrofa isolate Vietnam_VNF54 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2172426986|gb|MZ703185.1|,MZ703185,"Sus scrofa domesticus isolate Niang Megha 1 mitochondrion, complete genome",9825,Sus scrofa domesticus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|762006568|gb|KP001500.1|,KP001500,"Panthera leo isolate 162_RSA mitochondrion, complete genome",9689,Panthera leo,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|669176252|gb|KJ746662.1|,KJ746662,"Sus scrofa domesticus breed Ma shen mitochondrion, complete genome",9825,Sus scrofa domesticus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853590|gb|OK512986.1|,OK512986,"Panthera spelaea from USA mitochondrion, partial genome",2770979,Panthera spelaea,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1337016215|gb|MG009445.1|,MG009445,"Sus scrofa breed Dapulian pig mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2053978904|gb|MW823158.1|,MW823158,"Pedioplanis gaerdesi voucher MCZR184311 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2132853716|gb|OK512995.1|,OK512995,"Panthera spelaea from USA mitochondrion, partial genome",2770979,Panthera spelaea,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2044000803|gb|MK858169.1|,MK858169,"Sus scrofa isolate Huainan13 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184804134|gb|KX982649.1|,KX982649,"Sus scrofa isolate Vietnam_MCB27 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2633559401|gb|OR817740.1|,OR817740,"Panthera pardus isolate Sku mitochondrion, complete genome",9691,Panthera pardus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|550600831|gb|KF472177.1|,KF472177,"Sus scrofa breed Shaziling mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|33320739|gb|AF486859.1|,AF486859,"Sus scrofa breed Chinese Xiang mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|671184737|gb|KJ737422.1|,KJ737422,"Sus scrofa breed Long lin mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2044000887|gb|MK858175.1|,MK858175,"Sus scrofa isolate Nanyang53 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|573464887|gb|KF776494.1|,KF776494,"Panthera leo leo mitochondrion, complete genome",1446311,Panthera leo leo,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|55139587|gb|AY634383.1|,AY634383,"Panthera pardus NADH dehydrogenase subunit 2 (NADH2) gene, partial cds; mitochondrial",9691,Panthera pardus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314671799|gb|MG250532.1|,MG250532,"Sus scrofa isolate GM12 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|347448695|gb|JN601072.1|,JN601072,"Sus scrofa isolate 2 breed Turopolje mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1898549875|gb|MT199606.1|,MT199606,"Sus scrofa mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314672121|gb|MG250555.1|,MG250555,"Sus scrofa isolate putian01 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|657306168|gb|KJ452313.1|,KJ452313,"Liolaemus septentrionalis voucher SSUC Re 538 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial",1508648,Liolaemus septentrionalis,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|118344882|gb|DQ871075.1|,DQ871075,"Pedioplanis gaerdesi haplotype AMB6507 NADH dehydrogenase subunit 2 (NADH2) gene, partial cds; mitochondrial",219176,Pedioplanis gaerdesi,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2311028818|gb|OL435713.1|,OL435713,"Sus scrofa mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2414558493|gb|ON804887.1|,ON804887,"Sus scrofa domesticus breed HDK75 mitochondrion, complete genome",9825,Sus scrofa domesticus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1024249785|gb|KT965278.1|,KT965278,"Sus scrofa domesticus voucher CWFH_abt_1 mitochondrion, complete genome",9825,Sus scrofa domesticus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|294938346|gb|HM107683.1|,HM107683,"Panthera leo krugeri isolate PLE NADH dehydrogenase subunit 2 (ND2) gene, partial sequence; mitochondrial",637857,Panthera leo krugeri,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1314672163|gb|MG250558.1|,MG250558,"Sus scrofa isolate tunchang7082 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717709|gb|OL547456.1|,OL547456,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184803854|gb|KX982629.1|,KX982629,"Sus scrofa isolate Russia_W1 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|11055671|gb|AF304203.1|AF304203,AF304203,"Sus scrofa breed Swedish wild boar mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2044000915|gb|MK858177.1|,MK858177,"Sus scrofa isolate Queshan61 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1898549861|gb|MT199605.1|,MT199605,"Sus scrofa breed yimenghei pig mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|762006554|gb|KP001499.1|,KP001499,"Panthera leo isolate 71_Somalia mitochondrion, complete genome",9689,Panthera leo,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910744|gb|PP763944.1|,PP763944,"Sus scrofa isolate NiangMegha4 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717681|gb|OL547454.1|,OL547454,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2250084206|gb|OM617468.1|,OM617468,"Sus scrofa domesticus breed Ghungroo mitochondrion, complete genome",9825,Sus scrofa domesticus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1184803980|gb|KX982638.1|,KX982638,"Sus scrofa isolate Vietnam_VNF22 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910478|gb|PP763925.1|,PP763925,"Sus scrofa isolate Doom2 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|814936710|gb|KP223728.1|,KP223728,"Sus scrofa breed Jeuma pig mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2327629298|gb|ON715893.1|,ON715893,"Sus scrofa domesticus mitochondrion, complete genome",9825,Sus scrofa domesticus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|145315568|gb|EF545577.1|,EF545577,"Sus scrofa isolate wei10 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2037092861|gb|MK746091.1|,MK746091,"Sus scrofa isolate Huainan6 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910758|gb|PP763945.1|,PP763945,"Sus scrofa isolate NiangMegha5 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|982189131|gb|KT279759.1|,KT279759,"Sus scrofa haplotype C mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2165717751|gb|OL547459.1|,OL547459,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|2727910604|gb|PP763934.1|,PP763934,"Sus scrofa isolate Ghoongroo5 mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1245685942|gb|MF183223.1|,MF183223,"Sus scrofa breed Red Mangalica mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|1035662673|gb|KX258451.1|,KX258451,"Panthera leo spelaea voucher YG401.410 mitochondrion, partial genome",2770979,Panthera spelaea,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|669176266|gb|KJ746663.1|,KJ746663,"Sus scrofa domesticus breed Nei jiang mitochondrion, complete genome",9825,Sus scrofa domesticus,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|33320935|gb|AF486873.1|,AF486873,"Sus scrofa breed Chinese Wannanhua mitochondrion, complete genome",9823,Sus scrofa,100.0,42.7638,0.381129
+Query_4235579,reverse journal,gi|657306136|gb|KJ452305.1|,KJ452305,"Liolaemus silvai voucher J. Troncoso-Palacios 71 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial",1508647,Liolaemus silvai,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|2624478696|gb|OQ625490.1|,OQ625490,"Liolaemus silvai isolate H9IGaIDa NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial",1508647,Liolaemus silvai,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|2624478678|gb|OQ632907.1|,OQ632907,"Liolaemus zapallarensis isolate Lzap1055 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial",43601,Liolaemus zapallarensis,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|2624478694|gb|OQ625489.1|,OQ625489,"Liolaemus silvai isolate H8CaCha NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial",1508647,Liolaemus silvai,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|2165717877|gb|OL547468.1|,OL547468,"Sus scrofa mitochondrion, partial genome",9823,Sus scrofa,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|2624478710|gb|OQ625497.1|,OQ625497,"Liolaemus silvai isolate H16ICho NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial",1508647,Liolaemus silvai,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|2624478702|gb|OQ625493.1|,OQ625493,"Liolaemus silvai isolate H12IGa NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial",1508647,Liolaemus silvai,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|6601126|gb|AF099227.1|AF099227,AF099227,"Liolaemus zapallarensis NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial genes for mitochondrial products",43601,Liolaemus zapallarensis,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|2045510580|gb|MW824735.1|,MW824735,"Diploglossus delasagra voucher USNM12238 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial",266058,Diploglossus delasagra,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|2624478684|gb|OQ625484.1|,OQ625484,"Liolaemus carezzae isolate H3ICha NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial",3101790,Liolaemus carezzae,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|2624478700|gb|OQ625492.1|,OQ625492,"Liolaemus silvai isolate H11IGaIDa NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial",1508647,Liolaemus silvai,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|657306140|gb|KJ452306.1|,KJ452306,"Liolaemus silvai voucher J. Troncoso-Palacios 73 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial",1508647,Liolaemus silvai,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|2624478676|gb|OQ632906.1|,OQ632906,"Liolaemus zapallarensis isolate Lzap1054 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial",43601,Liolaemus zapallarensis,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|76257750|gb|DQ080224.1|,DQ080224,"Stenocercus humeralis KU 291508 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial",342340,Stenocercus humeralis,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|2624478682|gb|OQ625483.1|,OQ625483,"Liolaemus carezzae isolate H2ICha NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial",3101790,Liolaemus carezzae,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|2624478706|gb|OQ625495.1|,OQ625495,"Liolaemus silvai isolate H14ICho NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial",1508647,Liolaemus silvai,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|2624478716|gb|OQ625500.1|,OQ625500,"Liolaemus silvai isolate H19PuCho NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial",1508647,Liolaemus silvai,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|657306148|gb|KJ452308.1|,KJ452308,"Liolaemus silvai voucher J. Troncoso-Palacios 74 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial",1508647,Liolaemus silvai,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|2624478688|gb|OQ625486.1|,OQ625486,"Liolaemus carezzae isolate H5ICha NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial",3101790,Liolaemus carezzae,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|2624478698|gb|OQ625491.1|,OQ625491,"Liolaemus silvai isolate H10IGa NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial",1508647,Liolaemus silvai,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|657306192|gb|KJ452319.1|,KJ452319,"Liolaemus silvai voucher J. Troncoso-Palacios 110 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial",1508647,Liolaemus silvai,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|76257806|gb|DQ080238.1|,DQ080238,"Stenocercus formosus MTD 46278 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial",342353,Stenocercus formosus,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|657306188|gb|KJ452318.1|,KJ452318,"Liolaemus silvai voucher J. Troncoso-Palacios 108 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial",1508647,Liolaemus silvai,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|2045510584|gb|MW824737.1|,MW824737,"Diploglossus lessonae voucher CHUNB62432 NADH dehydrogenase subunit II (ND2) gene, partial cds; mitochondrial",2202292,Diploglossus lessonae,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|76257754|gb|DQ080225.1|,DQ080225,"Stenocercus imitator FMNH 232638 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial",342341,Stenocercus imitator,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|2624478708|gb|OQ625496.1|,OQ625496,"Liolaemus silvai isolate H15ICho NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial",1508647,Liolaemus silvai,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|2624478680|gb|OQ625482.1|,OQ625482,"Liolaemus carezzae isolate H1ICha NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial",3101790,Liolaemus carezzae,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|76257794|gb|DQ080235.1|,DQ080235,"Stenocercus roseiventris KU 214967 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial",179242,Stenocercus roseiventris,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|2624478674|gb|OQ632905.1|,OQ632905,"Liolaemus zapallarensis isolate Lzap1068 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial",43601,Liolaemus zapallarensis,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|2624478712|gb|OQ625498.1|,OQ625498,"Liolaemus silvai isolate H17PuCho NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial",1508647,Liolaemus silvai,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|2624478692|gb|OQ625488.1|,OQ625488,"Liolaemus carezzae isolate H7ICha NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial",3101790,Liolaemus carezzae,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|657306156|gb|KJ452310.1|,KJ452310,"Liolaemus zapallarensis voucher SSUC Re 472 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial",43601,Liolaemus zapallarensis,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|657306144|gb|KJ452307.1|,KJ452307,"Liolaemus silvai voucher J. Troncoso-Palacios 75 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial",1508647,Liolaemus silvai,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|2624478704|gb|OQ625494.1|,OQ625494,"Liolaemus silvai isolate H13IChoPu NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial",1508647,Liolaemus silvai,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|2624478686|gb|OQ625485.1|,OQ625485,"Liolaemus carezzae isolate H4ICha NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial",3101790,Liolaemus carezzae,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|2624478690|gb|OQ625487.1|,OQ625487,"Liolaemus carezzae isolate H6ICha NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial",3101790,Liolaemus carezzae,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|2624478714|gb|OQ625499.1|,OQ625499,"Liolaemus silvai isolate H18PuCho NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial",1508647,Liolaemus silvai,100.0,40.9604,1.33027
+Query_4235579,reverse journal,gi|346722189|gb|JN019067.1|,JN019067,"Gekko petricolus voucher JS 5 tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, and tRNA-Asn genes, complete sequence; and tRNA-Cys gene, partial sequence; mitochondrial",1085618,Gekko petricolus,100.0,39.157,4.64311
+Query_4235579,reverse journal,gi|1714607364|ref|NC_044176.1|,NC_044176,"Stiphodon pelewensis isolate atra3 mitochondrion, complete genome",870289,Stiphodon pelewensis,100.0,39.157,4.64311
+Query_4235579,reverse journal,gi|346722187|gb|JN019066.1|,JN019066,"Gekko petricolus voucher JB 70 tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp, tRNA-Ala, and tRNA-Asn genes, complete sequence; and tRNA-Cys gene, partial sequence; mitochondrial",1085618,Gekko petricolus,100.0,39.157,4.64311
+Query_4235579,reverse journal,gi|2030724007|gb|MT123574.1|,MT123574,"Pseudochirulus forbesi NADH dehydrogenase subunit 2 (NADH2) gene, partial cds; mitochondrial",65616,Pseudochirulus forbesi,100.0,39.157,4.64311
+Query_4235579,reverse journal,gi|914748642|gb|KT266819.1|,KT266819,"Gekko boehmei voucher VFU R.2014.09 NADH dehydrogenase subunit 2 gene, partial cds; mitochondrial",1699782,Gekko boehmei,100.0,39.157,4.64311
+Query_4235579,reverse journal,gi|2647552083|gb|ON531195.1|,ON531195,"Gekko petricolus isolate K425 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",1085618,Gekko petricolus,100.0,39.157,4.64311
+Query_4235579,reverse journal,gi|2624855421|gb|MZ618347.1|,MZ618347,"Ptyas dhumnades mitochondrion, complete genome",8587,Ptyas dhumnades,100.0,39.157,4.64311
+Query_4235579,reverse journal,gi|2647552081|gb|ON531194.1|,ON531194,"Gekko petricolus isolate K355 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",1085618,Gekko petricolus,100.0,39.157,4.64311
+Query_4235579,reverse journal,gi|1707334691|gb|MK496970.1|,MK496970,"Stiphodon tuivi isolate tui5479 mitochondrion, complete genome",2597643,Stiphodon tuivi,100.0,39.157,4.64311
+Query_4235579,reverse journal,gi|149787362|gb|EF565143.1|,EF565143,"Stenocercus marmoratus voucher MHNC-R 1130 NADH dehydrogenase subunit 1 (ND1) gene, partial cds; tRNA-Ile and tRNA-Gln genes, complete sequence; tRNA-Met gene, partial sequence; NADH dehydrogenase subunit 2 (ND2) gene, partial cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial",451713,Stenocercus marmoratus,100.0,39.157,4.64311
+Query_4235579,reverse journal,gi|3061157626|emb|OZ311302.1|,OZ311302,"Pammene gallicana genome assembly, chromosome: 7",1858050,Pammene gallicana,100.0,39.157,4.64311
+Query_4235579,reverse journal,gi|1707334663|gb|MK496968.1|,MK496968,"Stiphodon pelewensis isolate Aqua5409 mitochondrion, complete genome",870289,Stiphodon pelewensis,100.0,39.157,4.64311
+Query_4235579,reverse journal,gi|1339869106|ref|NM_001360478.1|,NM_001360478,"Zea mays Eukaryotic aspartyl protease family protein (LOC100273869), mRNA; nuclear gene for chloroplast product",4577,Zea mays,100.0,39.157,4.64311
+Query_4235579,reverse journal,gi|1631881715|gb|MK507550.1|,MK507550,"Gekko flavimaritus NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",2572845,Gekko flavimaritus,100.0,39.157,4.64311
+Query_4235579,reverse journal,gi|2991371598|gb|PP372687.1|,PP372687,"Panthera pardus nimr isolate HE-231 mitochondrion, partial genome",3135897,Panthera pardus nimr,95.65,39.157,4.64311
+Query_4235579,reverse journal,gi|16265699|gb|AF391494.1|,AF391494,"Stiphodon elegans isolate STIPEL NADH dehydrogenase subunit 2 gene, complete cds; mitochondrial",166766,Stiphodon elegans,100.0,39.157,4.64311
+Query_4235579,reverse journal,gi|1714605581|ref|NC_044150.1|,NC_044150,"Stiphodon tuivi isolate tui5477 mitochondrion, complete genome",2597643,Stiphodon tuivi,100.0,39.157,4.64311
+Query_4235579,reverse journal,gi|2647552085|gb|ON531196.1|,ON531196,"Gekko boehmei isolate K427 NADH dehydrogenase subunit 2 (ND2) gene, partial cds; mitochondrial",1699782,Gekko boehmei,100.0,39.157,4.64311
+Query_4235579,reverse journal,gi|1952944363|dbj|AB738946.1|,AB738946,"Haemodracon trachyrhinus mitochondrial DNA, nearly complete genome, isolate: Htra1",1216929,Haemodracon trachyrhinus,100.0,39.157,4.64311
